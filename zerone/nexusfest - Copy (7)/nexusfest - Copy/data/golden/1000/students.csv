@@ -1,0 +1,1001 @@
+student_id,first_name,last_name,date_of_birth,gender,email,phone,department,enrollment_year,gpa
+20240001,A,B,1900-01-01,other,a.b.20240001@example.com,+1-428-242-2679,Mechanical Eng,1950,0.00
+20240002,Müller-José,Sørensen-René,2006-12-31,unspecified,müllerjosé.sørensenrené.20240002@example.com,+1-230-195-4582,Computer Science,2100,4.00
+20240003,Hassan,Rodriguez,2007-08-03,unspecified,hassan.rodriguez.20240003@example.com,+1-659-703-5557,Mechanical Eng,2019,3.01
+20240004,Asha,O'Connor,2004-06-24,other,asha.oconnor.20240004@example.com,+1-420-881-6514,Electrical Eng,2020,3.51
+20240005,Sophia,Kumar,2003-01-19,other,sophia.kumar.20240005@example.com,+1-470-926-1711,Economics,2024,2.45
+20240006,Suresh,Lopez,2003-06-28,other,suresh.lopez.20240006@example.com,+1-833-982-6925,Management,2018,1.81
+20240007,Fatima,Schmidt,2000-02-10,other,fatima.schmidt.20240007@example.com,+1-438-987-2654,Data Science,2024,1.67
+20240008,René,Li,2003-03-08,other,rené.li.20240008@example.com,+1-414-786-5374,Mathematics,2019,2.63
+20240009,Emma,Ramirez,2006-12-24,male,emma.ramirez.20240009@example.com,+1-673-488-5422,Electrical Eng,2023,3.09
+20240010,Amina,Simon,1996-04-03,female,amina.simon.20240010@example.com,+1-610-374-2084,Mathematics,2019,2.31
+20240011,Omar,Perez,2002-01-21,unspecified,omar.perez.20240011@example.com,+1-858-569-3340,Physics,2019,3.69
+20240012,María,Smith,2007-08-04,other,maría.smith.20240012@example.com,+1-798-538-7543,Information Tech,2022,2.12
+20240013,Max,Miller,1998-02-07,unspecified,max.miller.20240013@example.com,+1-973-148-2796,Data Science,2022,3.99
+20240014,Sakura,Dubois,2004-06-20,female,sakura.dubois.20240014@example.com,+1-590-710-8668,Physics,2022,1.90
+20240015,José,Gonzalez,1995-04-05,female,josé.gonzalez.20240015@example.com,+1-749-868-5371,Management,2023,3.65
+20240016,Camille,Nair,1998-07-19,female,camille.nair.20240016@example.com,+1-936-369-9201,Information Tech,2021,2.23
+20240017,Kenji,Rodriguez,2001-09-10,male,kenji.rodriguez.20240017@example.com,+1-582-880-3646,Electrical Eng,2024,3.78
+20240018,Asha,Ramirez,1995-06-09,other,asha.ramirez.20240018@example.com,+1-445-159-4946,Civil Engineering,2018,2.31
+20240019,Liam,Kumar,1996-07-20,male,liam.kumar.20240019@example.com,+1-875-586-3705,Electrical Eng,2024,3.33
+20240020,María,Hernandez,2004-06-28,male,maría.hernandez.20240020@example.com,+1-519-508-7118,Information Tech,2019,3.68
+20240021,Abhay,Hernandez,2000-07-23,female,abhay.hernandez.20240021@example.com,+1-221-702-4770,Mathematics,2019,2.63
+20240022,Amina,Rao,1996-04-27,female,amina.rao.20240022@example.com,+1-538-172-9423,Computer Science,2019,1.68
+20240023,Layla,Li,1999-10-22,male,layla.li.20240023@example.com,+1-784-690-8744,Information Tech,2022,3.17
+20240024,Youssef,Lindqvist,2004-02-17,female,youssef.lindqvist.20240024@example.com,+1-874-541-6804,Data Science,2019,2.68
+20240025,Pradeep,Al-Sayed,1996-03-19,female,pradeep.alsayed.20240025@example.com,+1-612-845-6559,Computer Science,2023,2.67
+20240026,Sophia,Davis,2007-01-11,male,sophia.davis.20240026@example.com,+1-387-385-8579,Physics,2021,1.98
+20240027,Youssef,Kowalski,2004-12-09,female,youssef.kowalski.20240027@example.com,+1-867-653-1241,Computer Science,2024,3.81
+20240028,Olivia,O'Connor,1998-09-24,unspecified,olivia.oconnor.20240028@example.com,+1-418-985-7570,Chemistry,2021,3.62
+20240029,Vikram,Williams,2003-10-04,unspecified,vikram.williams.20240029@example.com,+1-633-813-8973,Civil Engineering,2020,2.45
+20240030,Sakura,Jones,1996-04-24,female,sakura.jones.20240030@example.com,+1-521-158-1821,Information Tech,2022,2.24
+20240031,Pooja,Rodriguez,2006-11-29,female,pooja.rodriguez.20240031@example.com,+1-282-971-4044,Biotechnology,2019,3.80
+20240032,John,Ramirez,2000-04-10,female,john.ramirez.20240032@example.com,+1-452-692-1651,Economics,2021,1.67
+20240033,Liam,Al-Sayed,2007-09-05,other,liam.alsayed.20240033@example.com,+1-409-785-6147,Civil Engineering,2022,3.14
+20240034,Layla,Wang,2001-09-23,other,layla.wang.20240034@example.com,+1-209-569-2638,Data Science,2021,2.49
+20240035,Emma,Lopez,2000-12-12,other,emma.lopez.20240035@example.com,+1-450-478-5669,Data Science,2019,2.03
+20240036,Min-jun,Haddad,2001-10-14,female,minjun.haddad.20240036@example.com,+1-767-406-2697,Management,2022,3.58
+20240037,Yan,Wang,1997-05-26,male,yan.wang.20240037@example.com,+1-488-719-4450,Civil Engineering,2023,1.79
+20240038,Camille,Garcia,2000-12-02,unspecified,camille.garcia.20240038@example.com,+1-252-194-7939,Civil Engineering,2022,3.22
+20240039,Sofia,Patel,1997-12-07,other,sofia.patel.20240039@example.com,+1-959-552-8007,Electrical Eng,2023,1.51
+20240040,Aarav,Nair,1998-05-06,female,aarav.nair.20240040@example.com,+1-796-665-3426,Mathematics,2022,1.69
+20240041,Lakshmi,Smith,2003-03-07,female,lakshmi.smith.20240041@example.com,+1-415-798-5088,Mathematics,2024,1.60
+20240042,Sophia,Sato,2004-02-12,male,sophia.sato.20240042@example.com,+1-366-919-3900,Mechanical Eng,2022,3.45
+20240043,Chao,Sharma,2002-06-14,unspecified,chao.sharma.20240043@example.com,+1-952-930-5065,Management,2024,1.95
+20240044,Carlos,Williams,1997-06-04,female,carlos.williams.20240044@example.com,+1-427-304-8541,Chemistry,2021,3.47
+20240045,Lukas,Chen,2000-02-08,female,lukas.chen.20240045@example.com,+1-397-508-6378,Management,2019,3.55
+20240046,Sofia,Kowalski,2001-04-05,unspecified,sofia.kowalski.20240046@example.com,+1-749-439-1452,Management,2020,1.67
+20240047,Lucas,Wang,2000-12-14,female,lucas.wang.20240047@example.com,+1-644-453-6139,Economics,2018,1.95
+20240048,Lakshmi,Ramirez,1997-08-05,male,lakshmi.ramirez.20240048@example.com,+1-245-825-8144,Civil Engineering,2021,3.96
+20240049,Asha,Hernandez,2007-01-28,male,asha.hernandez.20240049@example.com,+1-641-171-6409,Mathematics,2023,3.81
+20240050,Jean,Laurent,2001-09-26,other,jean.laurent.20240050@example.com,+1-618-434-7592,Management,2022,3.62
+20240051,Camila,Gonzalez,2004-06-06,unspecified,camila.gonzalez.20240051@example.com,+1-966-278-5930,Management,2023,1.82
+20240052,Astrid,Gonzalez,2001-10-25,male,astrid.gonzalez.20240052@example.com,+1-793-721-6279,Physics,2020,3.58
+20240053,Kavita,Haddad,1999-10-17,unspecified,kavita.haddad.20240053@example.com,+1-373-774-2389,Information Tech,2022,2.61
+20240054,Mateo,Rodriguez,2002-07-08,male,mateo.rodriguez.20240054@example.com,+1-517-330-4262,Management,2018,3.16
+20240055,Hiroshi,Sharma,2005-08-28,female,hiroshi.sharma.20240055@example.com,+1-624-744-4185,Chemistry,2022,1.62
+20240056,Müller,Bishara,1998-04-23,female,müller.bishara.20240056@example.com,+1-997-535-4585,Data Science,2023,2.50
+20240057,Kenji,Janssen,2006-08-14,female,kenji.janssen.20240057@example.com,+1-455-968-2988,Biotechnology,2021,3.89
+20240058,Suresh,Smith,2006-11-30,other,suresh.smith.20240058@example.com,+1-827-934-9270,Chemistry,2022,3.50
+20240059,Pradeep,Ivanov,2004-12-31,unspecified,pradeep.ivanov.20240059@example.com,+1-465-869-5050,Chemistry,2019,3.77
+20240060,Sofia,MacLeod,2005-11-13,male,sofia.macleod.20240060@example.com,+1-650-179-5681,Civil Engineering,2023,3.44
+20240061,Layla,Li,2007-02-11,male,layla.li.20240061@example.com,+1-436-492-3503,Electrical Eng,2018,2.34
+20240062,Omar,Singh,2002-06-03,unspecified,omar.singh.20240062@example.com,+1-263-311-7883,Physics,2022,2.54
+20240063,Müller,MacLeod,1995-06-10,unspecified,müller.macleod.20240063@example.com,+1-206-460-5892,Chemistry,2024,2.96
+20240064,Müller,Novak,2004-05-25,male,müller.novak.20240064@example.com,+1-424-379-8140,Chemistry,2022,3.73
+20240065,Arjun,Sharma,2004-01-26,male,arjun.sharma.20240065@example.com,+1-330-737-9751,Chemistry,2023,2.47
+20240066,Rahul,Khan,1995-08-11,unspecified,rahul.khan.20240066@example.com,+1-672-286-1823,Electrical Eng,2018,2.98
+20240067,María,Al-Mansoor,2005-03-13,other,maría.almansoor.20240067@example.com,+1-484-870-7906,Physics,2020,2.32
+20240068,José,Ivanov,1995-06-08,female,josé.ivanov.20240068@example.com,+1-429-765-2124,Mathematics,2023,1.70
+20240069,Rohan,O'Connor,2000-07-18,female,rohan.oconnor.20240069@example.com,+1-356-344-3068,Economics,2019,1.58
+20240070,Rajesh,Laurent,1999-11-21,other,rajesh.laurent.20240070@example.com,+1-371-720-2876,Mathematics,2021,1.79
+20240071,Min-jun,Chen,1995-07-30,unspecified,minjun.chen.20240071@example.com,+1-932-303-2245,Physics,2020,1.77
+20240072,Youssef,Gupta,2001-10-06,female,youssef.gupta.20240072@example.com,+1-242-455-9728,Economics,2024,3.24
+20240073,Pradeep,Laurent,2006-05-07,other,pradeep.laurent.20240073@example.com,+1-630-942-9031,Computer Science,2023,2.43
+20240074,Sophia,Farah,2005-04-24,male,sophia.farah.20240074@example.com,+1-380-851-9548,Physics,2023,3.90
+20240075,Carlos,Torres,2007-01-26,unspecified,carlos.torres.20240075@example.com,+1-646-945-5397,Chemistry,2024,3.52
+20240076,Marie,Novak,1996-12-10,unspecified,marie.novak.20240076@example.com,+1-968-575-7209,Mechanical Eng,2020,2.11
+20240077,Camille,Sharma,2002-04-16,unspecified,camille.sharma.20240077@example.com,+1-563-916-5232,Mechanical Eng,2019,2.74
+20240078,Camille,Li,2001-03-13,female,camille.li.20240078@example.com,+1-395-187-4954,Biotechnology,2022,3.70
+20240079,Chao,Bishara,2000-05-22,unspecified,chao.bishara.20240079@example.com,+1-928-602-8342,Management,2023,2.89
+20240080,Priya,Kumar,2004-01-26,male,priya.kumar.20240080@example.com,+1-879-695-7046,Civil Engineering,2023,2.24
+20240081,Rajesh,Gonzalez,2004-07-17,other,rajesh.gonzalez.20240081@example.com,+1-919-564-5438,Mathematics,2023,2.83
+20240082,Valentina,Wang,1999-04-27,female,valentina.wang.20240082@example.com,+1-748-880-4033,Information Tech,2020,2.08
+20240083,Fatima,Garcia,2001-03-15,other,fatima.garcia.20240083@example.com,+1-398-403-4727,Data Science,2023,3.35
+20240084,Max,Brown,2006-12-24,other,max.brown.20240084@example.com,+1-255-666-5786,Computer Science,2019,2.26
+20240085,Wei,Dubois,2006-01-04,female,wei.dubois.20240085@example.com,+1-491-580-8843,Economics,2018,3.67
+20240086,Abhay,Tanaka,1996-02-25,unspecified,abhay.tanaka.20240086@example.com,+1-266-510-9056,Data Science,2020,1.96
+20240087,Emma,Perez,1996-03-15,male,emma.perez.20240087@example.com,+1-511-187-5066,Economics,2019,3.07
+20240088,Isabella,Gonzalez,2000-01-23,unspecified,isabella.gonzalez.20240088@example.com,+1-653-404-8025,Chemistry,2024,3.41
+20240089,Valentina,Perez,1997-03-23,male,valentina.perez.20240089@example.com,+1-416-370-2330,Management,2024,3.05
+20240090,Min-jun,Davis,1996-09-06,female,minjun.davis.20240090@example.com,+1-661-805-8699,Physics,2019,1.93
+20240091,Camila,Patel,2001-05-05,unspecified,camila.patel.20240091@example.com,+1-903-339-5334,Data Science,2023,2.08
+20240092,Tariq,Farah,2000-01-16,male,tariq.farah.20240092@example.com,+1-345-173-1977,Civil Engineering,2023,1.79
+20240093,Ji-woo,Lindqvist,2007-10-07,unspecified,jiwoo.lindqvist.20240093@example.com,+1-679-805-5982,Data Science,2020,2.27
+20240094,Astrid,Li,2006-01-28,female,astrid.li.20240094@example.com,+1-240-542-6280,Economics,2021,2.75
+20240095,José,Sharma,2007-11-26,female,josé.sharma.20240095@example.com,+1-475-690-1659,Management,2022,1.73
+20240096,Kenji,Qasim,2004-12-01,male,kenji.qasim.20240096@example.com,+1-646-750-9056,Economics,2020,2.80
+20240097,Olivia,Qasim,2002-06-23,female,olivia.qasim.20240097@example.com,+1-537-521-9117,Electrical Eng,2020,2.37
+20240098,Mateo,Laurent,2007-05-04,unspecified,mateo.laurent.20240098@example.com,+1-522-358-6296,Data Science,2018,3.86
+20240099,Lucas,MacLeod,2006-07-17,female,lucas.macleod.20240099@example.com,+1-755-573-7770,Management,2024,2.51
+20240100,Sneha,Jones,2006-03-07,unspecified,sneha.jones.20240100@example.com,+1-408-373-9998,Computer Science,2023,2.80
+20240101,Wei,Zhang,2005-11-14,female,wei.zhang.20240101@example.com,+1-823-918-4920,Management,2018,2.60
+20240102,Min-jun,Chen,2007-05-22,female,minjun.chen.20240102@example.com,+1-316-572-2924,Mechanical Eng,2021,2.88
+20240103,Sakura,Bishara,2001-07-18,other,sakura.bishara.20240103@example.com,+1-694-583-4993,Physics,2022,3.83
+20240104,Suresh,Gonzalez,1999-04-11,male,suresh.gonzalez.20240104@example.com,+1-482-891-7798,Data Science,2022,1.86
+20240105,Camille,Lindqvist,1995-01-22,other,camille.lindqvist.20240105@example.com,+1-793-775-9022,Economics,2020,2.77
+20240106,Sakura,Haddad,2002-09-28,unspecified,sakura.haddad.20240106@example.com,+1-529-990-4090,Chemistry,2020,2.85
+20240107,Layla,Perez,2004-03-19,other,layla.perez.20240107@example.com,+1-684-822-7246,Information Tech,2018,2.46
+20240108,Müller,Laurent,1998-05-31,female,müller.laurent.20240108@example.com,+1-714-704-6439,Electrical Eng,2021,3.48
+20240109,Noah,Kowalski,1997-03-27,unspecified,noah.kowalski.20240109@example.com,+1-939-247-7717,Computer Science,2022,3.61
+20240110,Sakura,Singh,2000-12-11,unspecified,sakura.singh.20240110@example.com,+1-282-972-6383,Management,2020,2.67
+20240111,René,Liu,2005-12-11,female,rené.liu.20240111@example.com,+1-270-340-5708,Economics,2024,3.07
+20240112,Hassan,Fischer,1997-03-17,female,hassan.fischer.20240112@example.com,+1-370-810-5906,Chemistry,2024,1.73
+20240113,Rahul,Patel,1996-04-04,other,rahul.patel.20240113@example.com,+1-641-249-5000,Mathematics,2020,2.31
+20240114,Chao,Perez,1999-01-15,male,chao.perez.20240114@example.com,+1-824-991-7267,Data Science,2019,3.20
+20240115,Layla,Bishara,1998-03-18,unspecified,layla.bishara.20240115@example.com,+1-460-570-5183,Management,2019,3.78
+20240116,Aarav,Janssen,2001-06-14,male,aarav.janssen.20240116@example.com,+1-652-453-5901,Data Science,2023,2.66
+20240117,Pradeep,Weber,2001-10-10,unspecified,pradeep.weber.20240117@example.com,+1-309-342-7248,Chemistry,2019,2.13
+20240118,Hannah,Perez,2001-08-15,unspecified,hannah.perez.20240118@example.com,+1-208-679-1803,Civil Engineering,2018,2.24
+20240119,Shreya,Ivanov,2001-06-02,male,shreya.ivanov.20240119@example.com,+1-560-324-4115,Economics,2024,3.76
+20240120,José,Simon,1998-01-25,female,josé.simon.20240120@example.com,+1-861-140-6061,Management,2023,3.39
+20240121,Abhay,Patel,1997-12-12,other,abhay.patel.20240121@example.com,+1-965-525-3877,Mathematics,2018,2.95
+20240122,Tariq,Smith,2003-03-17,other,tariq.smith.20240122@example.com,+1-463-944-8894,Electrical Eng,2022,3.47
+20240123,Camila,Fischer,1997-08-01,female,camila.fischer.20240123@example.com,+1-972-331-7511,Electrical Eng,2021,3.68
+20240124,Max,Kumar,1995-04-25,female,max.kumar.20240124@example.com,+1-577-788-5295,Chemistry,2020,3.48
+20240125,René,Popov,2003-05-02,male,rené.popov.20240125@example.com,+1-225-734-6374,Chemistry,2018,3.10
+20240126,Amina,Moreau,2005-05-31,other,amina.moreau.20240126@example.com,+1-618-219-3290,Management,2023,1.66
+20240127,Rohan,Patel,2006-01-18,female,rohan.patel.20240127@example.com,+1-750-238-7367,Mechanical Eng,2018,2.26
+20240128,Suresh,Suzuki,2007-02-12,male,suresh.suzuki.20240128@example.com,+1-870-201-9017,Physics,2021,3.18
+20240129,Chao,Li,2003-04-24,unspecified,chao.li.20240129@example.com,+1-441-975-6942,Chemistry,2019,1.58
+20240130,Noah,Simon,2003-01-17,unspecified,noah.simon.20240130@example.com,+1-394-225-8450,Civil Engineering,2018,2.42
+20240131,Olivia,Laurent,1995-06-24,other,olivia.laurent.20240131@example.com,+1-328-905-4362,Mechanical Eng,2018,2.03
+20240132,John,Ivanov,1999-08-25,male,john.ivanov.20240132@example.com,+1-536-892-3417,Mechanical Eng,2022,3.41
+20240133,Asha,Li,1998-03-31,other,asha.li.20240133@example.com,+1-312-776-1422,Electrical Eng,2019,3.65
+20240134,Wei,Rao,2000-05-03,other,wei.rao.20240134@example.com,+1-378-371-1858,Computer Science,2022,2.40
+20240135,Wei,Fischer,1997-07-20,female,wei.fischer.20240135@example.com,+1-659-896-6931,Chemistry,2023,2.55
+20240136,Sophia,Haddad,1995-12-22,other,sophia.haddad.20240136@example.com,+1-858-131-1996,Chemistry,2023,2.76
+20240137,Pooja,Novak,1997-06-03,unspecified,pooja.novak.20240137@example.com,+1-282-429-3430,Data Science,2021,2.50
+20240138,John,Smith,2007-04-20,other,john.smith.20240138@example.com,+1-811-643-5831,Physics,2023,2.19
+20240139,Suresh,Rodriguez,1997-03-23,female,suresh.rodriguez.20240139@example.com,+1-866-998-4522,Management,2024,3.01
+20240140,Lakshmi,Haddad,2004-04-12,unspecified,lakshmi.haddad.20240140@example.com,+1-625-847-2557,Physics,2020,3.72
+20240141,Jean,Farah,2000-09-19,male,jean.farah.20240141@example.com,+1-685-168-2494,Management,2020,2.28
+20240142,Liam,Kumar,2003-05-11,male,liam.kumar.20240142@example.com,+1-261-700-6400,Biotechnology,2024,2.58
+20240143,Isabella,Al-Sayed,2004-06-26,female,isabella.alsayed.20240143@example.com,+1-814-419-6761,Civil Engineering,2024,2.38
+20240144,Sophia,Perez,1998-06-21,unspecified,sophia.perez.20240144@example.com,+1-310-458-7022,Mechanical Eng,2023,2.77
+20240145,Lucas,O'Connor,2000-01-27,unspecified,lucas.oconnor.20240145@example.com,+1-985-938-1430,Biotechnology,2024,2.20
+20240146,Carlos,Sharma,2001-12-06,other,carlos.sharma.20240146@example.com,+1-385-990-3347,Computer Science,2020,1.95
+20240147,Astrid,Singh,1995-09-09,male,astrid.singh.20240147@example.com,+1-629-564-6585,Physics,2018,1.85
+20240148,Min-jun,Suzuki,2002-04-11,female,minjun.suzuki.20240148@example.com,+1-359-261-1815,Computer Science,2024,2.28
+20240149,Liam,Li,2004-07-05,unspecified,liam.li.20240149@example.com,+1-479-320-9394,Physics,2021,2.61
+20240150,Lucas,Sato,2001-05-09,unspecified,lucas.sato.20240150@example.com,+1-883-415-1744,Biotechnology,2023,2.57
+20240151,Amina,Khan,1996-03-24,male,amina.khan.20240151@example.com,+1-416-885-3248,Civil Engineering,2018,3.96
+20240152,José,Zhang,1995-03-05,unspecified,josé.zhang.20240152@example.com,+1-332-489-9725,Electrical Eng,2021,2.32
+20240153,Hassan,Rodriguez,2002-12-11,unspecified,hassan.rodriguez.20240153@example.com,+1-243-546-1307,Information Tech,2018,2.90
+20240154,Suresh,Singh,2007-11-30,unspecified,suresh.singh.20240154@example.com,+1-855-527-5743,Information Tech,2021,3.66
+20240155,Lucas,Khan,2002-04-14,unspecified,lucas.khan.20240155@example.com,+1-570-190-8155,Information Tech,2019,1.55
+20240156,Sophia,Davis,2003-12-25,female,sophia.davis.20240156@example.com,+1-517-863-6562,Physics,2022,2.59
+20240157,Amina,Tanaka,1996-09-17,female,amina.tanaka.20240157@example.com,+1-722-298-6724,Biotechnology,2022,3.45
+20240158,Lukas,Schneider,1998-04-24,female,lukas.schneider.20240158@example.com,+1-462-302-3842,Electrical Eng,2019,3.90
+20240159,Sakura,O'Connor,1996-09-09,unspecified,sakura.oconnor.20240159@example.com,+1-972-677-8354,Chemistry,2019,3.40
+20240160,Marie,Kowalski,2002-02-02,unspecified,marie.kowalski.20240160@example.com,+1-680-552-5961,Data Science,2019,3.93
+20240161,Sofia,Sanchez,2006-05-19,other,sofia.sanchez.20240161@example.com,+1-662-138-1932,Chemistry,2018,1.64
+20240162,Mia,Ivanov,1997-01-09,unspecified,mia.ivanov.20240162@example.com,+1-794-667-1672,Chemistry,2022,2.22
+20240163,Deepika,Janssen,1999-03-23,unspecified,deepika.janssen.20240163@example.com,+1-354-163-8381,Biotechnology,2020,2.93
+20240164,Sophia,Janssen,2002-09-14,female,sophia.janssen.20240164@example.com,+1-861-276-1641,Biotechnology,2023,3.75
+20240165,Youssef,Schmidt,2004-11-08,male,youssef.schmidt.20240165@example.com,+1-581-389-7347,Mathematics,2022,2.59
+20240166,Chao,MacLeod,1996-03-04,other,chao.macleod.20240166@example.com,+1-537-196-7333,Data Science,2024,2.35
+20240167,Mateo,Wang,1998-05-16,female,mateo.wang.20240167@example.com,+1-879-244-6731,Economics,2020,3.31
+20240168,Valentina,Moreau,2003-10-16,female,valentina.moreau.20240168@example.com,+1-772-485-6381,Civil Engineering,2019,3.25
+20240169,Wei,Laurent,2006-10-22,unspecified,wei.laurent.20240169@example.com,+1-570-118-6940,Biotechnology,2018,3.26
+20240170,Valentina,Brown,2002-08-31,unspecified,valentina.brown.20240170@example.com,+1-431-240-3538,Mechanical Eng,2024,3.88
+20240171,Emma,Zhang,1997-04-08,female,emma.zhang.20240171@example.com,+1-544-997-3147,Management,2022,3.61
+20240172,René,Johnson,1998-09-18,unspecified,rené.johnson.20240172@example.com,+1-620-473-4891,Computer Science,2023,1.91
+20240173,Abhay,Torres,2005-01-25,male,abhay.torres.20240173@example.com,+1-680-955-4178,Civil Engineering,2019,2.21
+20240174,Mia,Simon,2004-11-18,other,mia.simon.20240174@example.com,+1-714-640-7859,Physics,2021,3.87
+20240175,Min-jun,Popov,1998-02-07,other,minjun.popov.20240175@example.com,+1-856-592-7081,Computer Science,2024,2.00
+20240176,Sophia,Schmidt,1997-10-18,female,sophia.schmidt.20240176@example.com,+1-479-560-9410,Electrical Eng,2020,3.61
+20240177,Hiroshi,Ivanov,1999-12-24,unspecified,hiroshi.ivanov.20240177@example.com,+1-227-524-1872,Mathematics,2024,2.59
+20240178,Björn,Rodriguez,2003-08-30,other,björn.rodriguez.20240178@example.com,+1-228-426-2623,Mechanical Eng,2018,2.43
+20240179,Pierre,Lindqvist,1995-11-10,unspecified,pierre.lindqvist.20240179@example.com,+1-342-877-8685,Information Tech,2020,1.87
+20240180,Deepika,Torres,1996-10-11,other,deepika.torres.20240180@example.com,+1-353-661-9647,Mechanical Eng,2018,1.51
+20240181,Pradeep,Nair,2000-04-30,female,pradeep.nair.20240181@example.com,+1-444-529-8489,Computer Science,2020,3.44
+20240182,John,Nair,2006-03-18,female,john.nair.20240182@example.com,+1-727-688-4963,Management,2022,3.59
+20240183,Hiroshi,Zhang,2002-11-30,unspecified,hiroshi.zhang.20240183@example.com,+1-880-784-2402,Electrical Eng,2019,2.57
+20240184,Max,Singh,2007-03-16,female,max.singh.20240184@example.com,+1-681-144-7338,Physics,2022,3.88
+20240185,Mia,Wang,2003-01-04,female,mia.wang.20240185@example.com,+1-446-850-2698,Mathematics,2024,3.37
+20240186,Pierre,Smith,2007-03-31,male,pierre.smith.20240186@example.com,+1-675-812-8840,Management,2020,1.61
+20240187,Mei,Janssen,2005-04-07,other,mei.janssen.20240187@example.com,+1-244-910-4268,Mechanical Eng,2018,1.84
+20240188,Rohan,Liu,2006-07-24,unspecified,rohan.liu.20240188@example.com,+1-237-871-4131,Civil Engineering,2021,3.83
+20240189,Mateo,Sato,1996-01-27,other,mateo.sato.20240189@example.com,+1-327-918-7029,Civil Engineering,2024,3.66
+20240190,Lakshmi,Khan,2003-09-03,male,lakshmi.khan.20240190@example.com,+1-908-609-7018,Chemistry,2020,3.36
+20240191,Carlos,Janssen,2004-07-09,unspecified,carlos.janssen.20240191@example.com,+1-384-658-5813,Economics,2018,1.71
+20240192,Marie,Gupta,2001-08-18,unspecified,marie.gupta.20240192@example.com,+1-934-536-3730,Economics,2020,1.70
+20240193,Abhay,Sato,2002-11-28,unspecified,abhay.sato.20240193@example.com,+1-854-910-1939,Civil Engineering,2022,2.62
+20240194,Emma,Laurent,2003-02-24,male,emma.laurent.20240194@example.com,+1-346-969-8179,Computer Science,2022,3.09
+20240195,Ananya,Smith,2003-03-20,unspecified,ananya.smith.20240195@example.com,+1-233-719-3513,Economics,2020,1.67
+20240196,Deepika,Suzuki,1996-09-21,male,deepika.suzuki.20240196@example.com,+1-575-507-6150,Biotechnology,2022,2.43
+20240197,Sofia,Davis,1995-08-01,male,sofia.davis.20240197@example.com,+1-730-496-2929,Chemistry,2023,3.90
+20240198,María,MacLeod,2005-01-03,other,maría.macleod.20240198@example.com,+1-702-304-3009,Information Tech,2019,2.15
+20240199,Yan,Novak,1998-11-15,unspecified,yan.novak.20240199@example.com,+1-898-965-6236,Data Science,2023,1.69
+20240200,Lukas,Schmidt,2007-02-28,other,lukas.schmidt.20240200@example.com,+1-928-826-3852,Electrical Eng,2020,1.66
+20240201,Max,Rodriguez,1999-07-05,male,max.rodriguez.20240201@example.com,+1-705-126-6912,Mechanical Eng,2024,2.06
+20240202,Mia,Al-Nuaimi,2007-05-17,female,mia.alnuaimi.20240202@example.com,+1-516-507-8842,Data Science,2019,3.51
+20240203,Chao,MacLeod,2007-11-23,male,chao.macleod.20240203@example.com,+1-857-175-8372,Mathematics,2018,2.52
+20240204,Kavita,Simon,1997-11-17,male,kavita.simon.20240204@example.com,+1-643-614-1907,Electrical Eng,2024,2.79
+20240205,Isabella,Hernandez,1998-09-10,other,isabella.hernandez.20240205@example.com,+1-430-454-9501,Information Tech,2019,1.88
+20240206,Mateo,Novak,1999-05-28,other,mateo.novak.20240206@example.com,+1-840-410-9740,Electrical Eng,2023,1.70
+20240207,Olivia,Rodriguez,1998-06-17,other,olivia.rodriguez.20240207@example.com,+1-242-945-1464,Economics,2019,3.10
+20240208,Liam,Patel,2007-12-08,male,liam.patel.20240208@example.com,+1-626-732-1496,Economics,2020,3.87
+20240209,Shreya,Dubois,2001-10-10,male,shreya.dubois.20240209@example.com,+1-615-404-8430,Management,2021,2.86
+20240210,Emma,Weber,2004-11-10,unspecified,emma.weber.20240210@example.com,+1-408-448-3353,Chemistry,2021,1.65
+20240211,Jean,Kowalski,2002-09-30,male,jean.kowalski.20240211@example.com,+1-727-675-2739,Mathematics,2021,3.30
+20240212,Jean,Davis,2000-12-31,male,jean.davis.20240212@example.com,+1-299-151-5754,Electrical Eng,2021,2.67
+20240213,Müller,Kowalski,2000-07-26,male,müller.kowalski.20240213@example.com,+1-791-838-6123,Mathematics,2024,3.04
+20240214,Fatima,O'Connor,2006-07-18,unspecified,fatima.oconnor.20240214@example.com,+1-709-123-2475,Civil Engineering,2021,1.90
+20240215,Björn,Rodriguez,2000-05-26,other,björn.rodriguez.20240215@example.com,+1-251-388-9108,Computer Science,2019,2.64
+20240216,Rajesh,Zhang,1997-05-30,male,rajesh.zhang.20240216@example.com,+1-944-474-7606,Civil Engineering,2021,2.84
+20240217,Max,Patel,2007-10-16,male,max.patel.20240217@example.com,+1-766-395-2204,Mathematics,2022,2.50
+20240218,Müller,Rodriguez,2007-05-02,female,müller.rodriguez.20240218@example.com,+1-299-503-7114,Electrical Eng,2020,2.63
+20240219,Camille,Gonzalez,1998-03-27,unspecified,camille.gonzalez.20240219@example.com,+1-241-146-1637,Biotechnology,2019,3.85
+20240220,Yan,Schmidt,2005-08-16,unspecified,yan.schmidt.20240220@example.com,+1-820-627-3290,Electrical Eng,2022,2.33
+20240221,Marie,Torres,2003-10-25,other,marie.torres.20240221@example.com,+1-544-619-9351,Economics,2022,2.30
+20240222,Arjun,Schmidt,2005-08-26,female,arjun.schmidt.20240222@example.com,+1-539-789-2795,Mathematics,2024,2.91
+20240223,Qian,Sanchez,1995-08-07,unspecified,qian.sanchez.20240223@example.com,+1-871-901-4728,Civil Engineering,2022,2.27
+20240224,Sneha,Sanchez,2006-10-04,unspecified,sneha.sanchez.20240224@example.com,+1-897-348-1517,Electrical Eng,2023,2.70
+20240225,Lucas,Jones,2002-01-13,male,lucas.jones.20240225@example.com,+1-907-308-7723,Physics,2021,1.55
+20240226,Rajesh,Kowalski,1996-05-25,male,rajesh.kowalski.20240226@example.com,+1-412-674-6325,Biotechnology,2023,3.62
+20240227,Pooja,Hernandez,1998-11-19,other,pooja.hernandez.20240227@example.com,+1-562-792-5331,Biotechnology,2021,2.44
+20240228,Pooja,Jones,2001-04-04,other,pooja.jones.20240228@example.com,+1-504-889-5735,Mechanical Eng,2022,3.89
+20240229,Zainab,Weber,2002-02-10,other,zainab.weber.20240229@example.com,+1-938-380-5715,Biotechnology,2021,3.26
+20240230,Isabella,Perez,2003-07-08,other,isabella.perez.20240230@example.com,+1-497-143-5712,Electrical Eng,2021,3.19
+20240231,Liam,Sato,2000-10-01,unspecified,liam.sato.20240231@example.com,+1-406-947-9824,Mechanical Eng,2023,3.81
+20240232,Carlos,Gonzalez,1998-01-29,male,carlos.gonzalez.20240232@example.com,+1-251-785-9700,Mechanical Eng,2018,3.24
+20240233,Amina,Dubois,1997-03-31,other,amina.dubois.20240233@example.com,+1-683-202-3252,Information Tech,2021,2.08
+20240234,Asha,Gonzalez,1998-07-17,unspecified,asha.gonzalez.20240234@example.com,+1-866-304-5706,Chemistry,2021,3.94
+20240235,Marie,Zhang,1997-01-02,male,marie.zhang.20240235@example.com,+1-956-840-1611,Biotechnology,2023,3.11
+20240236,Kenji,Al-Sayed,1998-12-11,unspecified,kenji.alsayed.20240236@example.com,+1-390-866-5742,Chemistry,2018,3.71
+20240237,Ananya,Rao,1997-05-29,other,ananya.rao.20240237@example.com,+1-856-656-9590,Chemistry,2020,2.25
+20240238,Shreya,Smith,2005-07-01,male,shreya.smith.20240238@example.com,+1-538-266-8518,Data Science,2020,3.63
+20240239,José,Schmidt,2002-07-24,other,josé.schmidt.20240239@example.com,+1-890-875-4164,Economics,2024,1.97
+20240240,Kenji,Torres,2004-02-04,unspecified,kenji.torres.20240240@example.com,+1-535-188-7567,Biotechnology,2024,3.64
+20240241,Noah,Brown,2005-09-16,male,noah.brown.20240241@example.com,+1-467-492-4858,Computer Science,2020,3.95
+20240242,Deepika,O'Connor,2002-05-24,female,deepika.oconnor.20240242@example.com,+1-869-468-4871,Civil Engineering,2020,2.17
+20240243,Vikram,Laurent,2001-11-18,unspecified,vikram.laurent.20240243@example.com,+1-714-820-6095,Management,2019,1.80
+20240244,Isabella,Dubois,2001-08-13,male,isabella.dubois.20240244@example.com,+1-336-589-3509,Mechanical Eng,2020,3.79
+20240245,Suresh,Fischer,2003-05-19,unspecified,suresh.fischer.20240245@example.com,+1-880-945-4578,Biotechnology,2021,3.97
+20240246,Youssef,Simon,1996-11-01,unspecified,youssef.simon.20240246@example.com,+1-920-470-2279,Biotechnology,2022,3.39
+20240247,Lucas,Verma,2006-05-03,male,lucas.verma.20240247@example.com,+1-535-974-9525,Electrical Eng,2019,3.57
+20240248,Abhay,Nair,2005-12-18,unspecified,abhay.nair.20240248@example.com,+1-664-235-9409,Computer Science,2018,3.20
+20240249,Qian,Al-Nuaimi,2007-07-14,other,qian.alnuaimi.20240249@example.com,+1-222-505-5169,Information Tech,2021,2.91
+20240250,Asha,Fischer,1996-08-21,unspecified,asha.fischer.20240250@example.com,+1-917-165-9866,Mathematics,2018,2.04
+20240251,Vikram,Singh,2005-08-03,other,vikram.singh.20240251@example.com,+1-384-887-3218,Physics,2018,3.97
+20240252,Qian,Suzuki,2003-07-31,unspecified,qian.suzuki.20240252@example.com,+1-282-799-9835,Physics,2021,3.98
+20240253,Yan,Moreau,1997-08-29,unspecified,yan.moreau.20240253@example.com,+1-330-845-4648,Biotechnology,2019,3.65
+20240254,Asha,O'Connor,2001-09-10,unspecified,asha.oconnor.20240254@example.com,+1-588-943-4762,Biotechnology,2021,1.56
+20240255,Youssef,Al-Nuaimi,2001-03-08,female,youssef.alnuaimi.20240255@example.com,+1-876-529-1256,Computer Science,2019,2.37
+20240256,Layla,Garcia,1995-10-03,female,layla.garcia.20240256@example.com,+1-958-145-7590,Mechanical Eng,2021,1.67
+20240257,Abhay,Miller,1996-04-07,other,abhay.miller.20240257@example.com,+1-949-689-6224,Mechanical Eng,2019,2.85
+20240258,Marie,Davis,1998-03-19,male,marie.davis.20240258@example.com,+1-507-381-1998,Physics,2023,2.25
+20240259,Kenji,Dubois,2007-06-20,female,kenji.dubois.20240259@example.com,+1-858-787-7244,Mathematics,2021,3.20
+20240260,Jean,Weber,1998-05-07,unspecified,jean.weber.20240260@example.com,+1-972-650-8758,Electrical Eng,2020,2.54
+20240261,Layla,Novak,1998-03-28,unspecified,layla.novak.20240261@example.com,+1-775-522-7824,Computer Science,2024,2.06
+20240262,Yan,Al-Mansoor,1999-07-24,female,yan.almansoor.20240262@example.com,+1-579-194-9775,Chemistry,2020,2.11
+20240263,Fatima,Verma,1995-11-20,female,fatima.verma.20240263@example.com,+1-979-701-4555,Mechanical Eng,2024,2.17
+20240264,Pooja,Garcia,2002-06-20,female,pooja.garcia.20240264@example.com,+1-394-859-2922,Mechanical Eng,2020,3.67
+20240265,Pooja,Davis,1999-08-03,male,pooja.davis.20240265@example.com,+1-529-894-5637,Biotechnology,2021,3.24
+20240266,René,Al-Nuaimi,2003-01-22,other,rené.alnuaimi.20240266@example.com,+1-725-609-8635,Mathematics,2020,2.83
+20240267,Noah,Janssen,2005-07-13,other,noah.janssen.20240267@example.com,+1-579-420-7781,Mechanical Eng,2024,3.95
+20240268,Rohan,Perez,1998-04-10,other,rohan.perez.20240268@example.com,+1-798-693-7841,Biotechnology,2018,3.66
+20240269,Camila,Johnson,2000-02-28,male,camila.johnson.20240269@example.com,+1-763-770-6530,Chemistry,2021,1.99
+20240270,José,O'Connor,2006-01-01,male,josé.oconnor.20240270@example.com,+1-560-273-3293,Information Tech,2021,3.55
+20240271,Arjun,Brown,2007-02-28,female,arjun.brown.20240271@example.com,+1-234-959-2217,Biotechnology,2023,3.79
+20240272,Sneha,O'Connor,1998-01-31,male,sneha.oconnor.20240272@example.com,+1-924-254-1149,Data Science,2024,1.52
+20240273,Omar,Rodriguez,1996-05-10,unspecified,omar.rodriguez.20240273@example.com,+1-699-116-1108,Management,2022,2.64
+20240274,Chao,Rao,2001-02-28,other,chao.rao.20240274@example.com,+1-714-932-8054,Computer Science,2022,1.54
+20240275,Kenji,Gupta,2006-10-05,male,kenji.gupta.20240275@example.com,+1-834-639-5135,Mechanical Eng,2019,3.80
+20240276,Hannah,Li,1996-10-09,unspecified,hannah.li.20240276@example.com,+1-778-349-4700,Chemistry,2020,3.49
+20240277,Alejandro,Simon,1996-10-22,female,alejandro.simon.20240277@example.com,+1-615-488-7179,Data Science,2023,3.57
+20240278,Rajesh,Verma,1998-11-04,unspecified,rajesh.verma.20240278@example.com,+1-860-903-6427,Physics,2018,3.09
+20240279,Noah,Hernandez,2000-02-26,unspecified,noah.hernandez.20240279@example.com,+1-247-176-5593,Civil Engineering,2019,3.80
+20240280,Ananya,Brown,2002-01-20,male,ananya.brown.20240280@example.com,+1-347-870-7525,Economics,2018,3.82
+20240281,Emma,Chen,2000-05-23,unspecified,emma.chen.20240281@example.com,+1-753-439-7288,Management,2022,1.91
+20240282,Yan,Lindqvist,1996-10-04,other,yan.lindqvist.20240282@example.com,+1-300-547-4803,Computer Science,2022,3.97
+20240283,Emma,Tanaka,2003-11-24,other,emma.tanaka.20240283@example.com,+1-849-379-8381,Computer Science,2024,3.01
+20240284,Arjun,Miller,2003-06-03,male,arjun.miller.20240284@example.com,+1-799-776-7227,Management,2021,2.39
+20240285,Liam,MacLeod,2000-07-11,female,liam.macleod.20240285@example.com,+1-474-257-7225,Data Science,2023,3.05
+20240286,Sakura,Fischer,2003-02-02,female,sakura.fischer.20240286@example.com,+1-515-555-6896,Computer Science,2018,2.47
+20240287,Carlos,Gupta,1999-03-16,unspecified,carlos.gupta.20240287@example.com,+1-768-624-7685,Biotechnology,2021,1.83
+20240288,Sophia,Sharma,2007-06-07,other,sophia.sharma.20240288@example.com,+1-212-398-7779,Physics,2018,1.72
+20240289,Müller,MacLeod,2007-07-20,male,müller.macleod.20240289@example.com,+1-589-273-3274,Management,2019,1.71
+20240290,Carlos,Chen,1998-04-10,male,carlos.chen.20240290@example.com,+1-482-531-5911,Physics,2018,2.17
+20240291,Pooja,Lindqvist,2000-08-23,unspecified,pooja.lindqvist.20240291@example.com,+1-831-300-8501,Economics,2019,1.69
+20240292,Sophia,Smith,2003-11-16,unspecified,sophia.smith.20240292@example.com,+1-650-442-8055,Mathematics,2020,2.26
+20240293,Yan,Chen,1999-07-04,other,yan.chen.20240293@example.com,+1-607-426-5775,Electrical Eng,2021,2.30
+20240294,Arjun,Perez,2002-04-23,other,arjun.perez.20240294@example.com,+1-573-216-4273,Physics,2021,3.45
+20240295,Mei,Simon,1995-08-09,unspecified,mei.simon.20240295@example.com,+1-414-548-5773,Information Tech,2023,3.42
+20240296,John,Popov,2004-03-05,unspecified,john.popov.20240296@example.com,+1-848-410-4965,Electrical Eng,2023,3.62
+20240297,José,Laurent,2004-06-28,unspecified,josé.laurent.20240297@example.com,+1-659-712-8851,Data Science,2024,1.89
+20240298,Astrid,Lopez,2004-05-19,female,astrid.lopez.20240298@example.com,+1-918-931-9796,Mathematics,2022,2.77
+20240299,Liam,Gupta,2002-12-18,female,liam.gupta.20240299@example.com,+1-860-793-7547,Economics,2019,3.42
+20240300,Pierre,Lindqvist,1995-03-28,other,pierre.lindqvist.20240300@example.com,+1-722-864-9499,Mechanical Eng,2018,2.58
+20240301,Amina,Haddad,2005-05-21,male,amina.haddad.20240301@example.com,+1-225-594-2712,Mathematics,2024,2.44
+20240302,Camila,Al-Sayed,1996-12-04,male,camila.alsayed.20240302@example.com,+1-519-451-8460,Mathematics,2018,3.80
+20240303,Zainab,Hernandez,2005-09-05,unspecified,zainab.hernandez.20240303@example.com,+1-913-563-6225,Information Tech,2018,2.71
+20240304,John,Chen,1997-07-31,other,john.chen.20240304@example.com,+1-311-793-3692,Management,2018,1.61
+20240305,Youssef,Hernandez,1998-08-04,unspecified,youssef.hernandez.20240305@example.com,+1-437-916-7636,Chemistry,2020,1.94
+20240306,Mei,Brown,2004-09-10,female,mei.brown.20240306@example.com,+1-828-302-8365,Information Tech,2021,3.10
+20240307,Pradeep,Al-Mansoor,1999-10-26,other,pradeep.almansoor.20240307@example.com,+1-264-691-2667,Information Tech,2019,1.51
+20240308,Mei,Suzuki,2005-04-06,other,mei.suzuki.20240308@example.com,+1-701-640-6134,Management,2018,2.31
+20240309,Müller,Torres,1997-07-24,other,müller.torres.20240309@example.com,+1-832-276-5873,Chemistry,2020,2.48
+20240310,Liam,Simon,1997-08-23,other,liam.simon.20240310@example.com,+1-387-482-3316,Data Science,2019,1.83
+20240311,Müller,Al-Sayed,2007-11-22,unspecified,müller.alsayed.20240311@example.com,+1-698-750-9804,Electrical Eng,2021,2.99
+20240312,Kenji,Gonzalez,2001-06-24,male,kenji.gonzalez.20240312@example.com,+1-661-734-1878,Mathematics,2019,1.92
+20240313,Hannah,Rao,1999-05-18,unspecified,hannah.rao.20240313@example.com,+1-717-768-9109,Biotechnology,2024,2.71
+20240314,Chao,Simon,2004-12-15,male,chao.simon.20240314@example.com,+1-778-131-4613,Data Science,2021,2.73
+20240315,Camila,Patel,2007-01-22,male,camila.patel.20240315@example.com,+1-779-860-9115,Chemistry,2020,2.19
+20240316,Lucas,Perez,2007-03-08,other,lucas.perez.20240316@example.com,+1-974-142-8231,Biotechnology,2024,1.79
+20240317,Omar,Farah,2000-07-20,female,omar.farah.20240317@example.com,+1-469-456-2425,Chemistry,2020,1.76
+20240318,Abhay,Kowalski,2000-04-25,other,abhay.kowalski.20240318@example.com,+1-824-747-8015,Information Tech,2019,3.98
+20240319,Ji-woo,Torres,1999-08-20,male,jiwoo.torres.20240319@example.com,+1-783-459-9720,Computer Science,2024,1.85
+20240320,Sofia,Ramirez,2002-04-05,other,sofia.ramirez.20240320@example.com,+1-786-373-9428,Civil Engineering,2023,2.85
+20240321,Noah,Smith,2004-03-25,other,noah.smith.20240321@example.com,+1-329-818-3174,Management,2018,3.91
+20240322,Youssef,Johnson,2000-07-20,unspecified,youssef.johnson.20240322@example.com,+1-345-691-5402,Chemistry,2024,3.28
+20240323,Qian,Al-Mansoor,1997-02-01,other,qian.almansoor.20240323@example.com,+1-577-565-8996,Information Tech,2021,2.63
+20240324,Marie,Sanchez,1997-02-02,unspecified,marie.sanchez.20240324@example.com,+1-880-814-6869,Management,2023,1.51
+20240325,John,Lindqvist,1999-11-20,male,john.lindqvist.20240325@example.com,+1-474-430-5646,Chemistry,2021,2.84
+20240326,Camille,Gonzalez,2007-09-12,unspecified,camille.gonzalez.20240326@example.com,+1-898-880-1793,Mathematics,2024,2.94
+20240327,Rohan,Gupta,2005-04-22,female,rohan.gupta.20240327@example.com,+1-651-567-1011,Electrical Eng,2018,3.07
+20240328,Pradeep,Jones,1997-12-16,other,pradeep.jones.20240328@example.com,+1-480-195-6905,Electrical Eng,2023,3.99
+20240329,José,Kumar,1998-09-17,unspecified,josé.kumar.20240329@example.com,+1-512-843-4836,Management,2018,2.43
+20240330,Pradeep,Moreau,1997-02-18,male,pradeep.moreau.20240330@example.com,+1-279-235-4705,Chemistry,2018,1.73
+20240331,Abhay,Rao,2002-09-15,female,abhay.rao.20240331@example.com,+1-910-235-8826,Physics,2024,1.52
+20240332,Emma,Miller,1997-04-19,other,emma.miller.20240332@example.com,+1-506-240-7270,Mathematics,2018,2.46
+20240333,Yan,Moreau,1998-03-16,female,yan.moreau.20240333@example.com,+1-865-268-8210,Economics,2018,3.98
+20240334,Lukas,Schneider,1998-05-25,unspecified,lukas.schneider.20240334@example.com,+1-288-202-3293,Mechanical Eng,2021,2.03
+20240335,Isabella,Sanchez,2002-11-19,other,isabella.sanchez.20240335@example.com,+1-453-383-2380,Electrical Eng,2021,3.33
+20240336,Youssef,Gonzalez,2001-05-23,female,youssef.gonzalez.20240336@example.com,+1-508-310-9482,Management,2024,3.00
+20240337,Fatima,Fischer,1996-03-23,male,fatima.fischer.20240337@example.com,+1-595-215-4949,Chemistry,2024,2.48
+20240338,Shreya,Dubois,2006-11-06,other,shreya.dubois.20240338@example.com,+1-335-496-7895,Mathematics,2018,2.98
+20240339,Max,Lopez,2005-07-25,female,max.lopez.20240339@example.com,+1-801-169-1225,Computer Science,2024,3.21
+20240340,María,Garcia,1996-05-10,unspecified,maría.garcia.20240340@example.com,+1-493-743-9209,Biotechnology,2024,1.60
+20240341,Qian,Farah,1996-11-06,male,qian.farah.20240341@example.com,+1-285-417-2294,Civil Engineering,2023,3.25
+20240342,Zainab,Janssen,2002-04-30,female,zainab.janssen.20240342@example.com,+1-915-547-4909,Civil Engineering,2021,1.89
+20240343,Vikram,Davis,2004-09-29,unspecified,vikram.davis.20240343@example.com,+1-823-156-6067,Economics,2018,1.72
+20240344,Kenji,Nair,1998-01-29,female,kenji.nair.20240344@example.com,+1-708-455-9568,Electrical Eng,2023,1.53
+20240345,María,Williams,2001-01-10,female,maría.williams.20240345@example.com,+1-543-926-8034,Computer Science,2023,2.43
+20240346,Carlos,Hernandez,2007-12-07,female,carlos.hernandez.20240346@example.com,+1-666-623-6900,Chemistry,2023,1.66
+20240347,Vikram,Bishara,1998-09-29,male,vikram.bishara.20240347@example.com,+1-991-205-2889,Civil Engineering,2020,3.65
+20240348,Hassan,Fischer,1995-12-27,female,hassan.fischer.20240348@example.com,+1-247-583-6963,Mechanical Eng,2024,2.77
+20240349,Müller,Johnson,1995-10-17,unspecified,müller.johnson.20240349@example.com,+1-529-354-7819,Mechanical Eng,2022,1.95
+20240350,Jean,Li,2007-10-27,female,jean.li.20240350@example.com,+1-889-153-3938,Biotechnology,2020,3.56
+20240351,Amina,Janssen,1996-01-12,female,amina.janssen.20240351@example.com,+1-489-892-6090,Chemistry,2021,2.79
+20240352,Marie,Kumar,1995-03-07,male,marie.kumar.20240352@example.com,+1-777-903-5979,Civil Engineering,2020,2.88
+20240353,Youssef,Al-Nuaimi,2006-01-24,male,youssef.alnuaimi.20240353@example.com,+1-759-878-5016,Information Tech,2024,2.42
+20240354,Sakura,Rao,1995-07-15,other,sakura.rao.20240354@example.com,+1-910-998-1157,Management,2019,3.83
+20240355,Pierre,Rao,2003-06-10,other,pierre.rao.20240355@example.com,+1-410-642-4902,Data Science,2024,3.40
+20240356,Qian,Bishara,1998-03-12,other,qian.bishara.20240356@example.com,+1-244-337-9515,Data Science,2023,3.90
+20240357,Chao,Weber,2005-04-13,female,chao.weber.20240357@example.com,+1-297-617-3187,Economics,2023,3.74
+20240358,Björn,Singh,1996-05-25,male,björn.singh.20240358@example.com,+1-498-367-6161,Mechanical Eng,2021,2.98
+20240359,Björn,Weber,2002-04-26,unspecified,björn.weber.20240359@example.com,+1-439-176-4321,Civil Engineering,2020,3.58
+20240360,Yan,MacLeod,1997-06-11,female,yan.macleod.20240360@example.com,+1-660-577-6145,Electrical Eng,2019,3.43
+20240361,Chao,Nair,1999-08-28,other,chao.nair.20240361@example.com,+1-471-972-2964,Chemistry,2021,2.84
+20240362,Olivia,Williams,2001-10-28,female,olivia.williams.20240362@example.com,+1-535-251-2494,Mechanical Eng,2024,3.52
+20240363,Youssef,Sato,1996-02-06,other,youssef.sato.20240363@example.com,+1-378-131-7625,Civil Engineering,2023,2.49
+20240364,Deepika,Gonzalez,2000-08-08,unspecified,deepika.gonzalez.20240364@example.com,+1-343-224-1195,Data Science,2018,3.37
+20240365,Vikram,Ivanov,1999-12-26,male,vikram.ivanov.20240365@example.com,+1-581-802-2376,Physics,2019,3.45
+20240366,María,Popov,1996-06-12,unspecified,maría.popov.20240366@example.com,+1-294-967-6432,Electrical Eng,2019,1.69
+20240367,Isabella,Patel,1996-02-19,unspecified,isabella.patel.20240367@example.com,+1-604-608-1483,Information Tech,2019,3.86
+20240368,René,Simon,2002-12-09,male,rené.simon.20240368@example.com,+1-486-556-3435,Civil Engineering,2019,2.57
+20240369,Ananya,Torres,2000-07-06,other,ananya.torres.20240369@example.com,+1-621-663-8848,Chemistry,2023,3.05
+20240370,Vikram,Kumar,1998-01-29,male,vikram.kumar.20240370@example.com,+1-738-355-9907,Management,2021,2.20
+20240371,Priya,Al-Mansoor,2003-01-20,unspecified,priya.almansoor.20240371@example.com,+1-779-614-6269,Mathematics,2021,3.45
+20240372,Müller,Li,2002-02-25,male,müller.li.20240372@example.com,+1-997-387-1959,Computer Science,2022,1.95
+20240373,Rajesh,Hernandez,2000-03-21,female,rajesh.hernandez.20240373@example.com,+1-872-346-5366,Mechanical Eng,2019,2.39
+20240374,Vikram,O'Connor,1999-12-03,unspecified,vikram.oconnor.20240374@example.com,+1-377-280-4875,Mathematics,2022,3.99
+20240375,Jean,Janssen,2003-01-18,female,jean.janssen.20240375@example.com,+1-917-460-3328,Information Tech,2022,3.35
+20240376,Fatima,Ivanov,2006-01-15,other,fatima.ivanov.20240376@example.com,+1-702-138-2478,Electrical Eng,2022,3.97
+20240377,Vikram,Miller,1995-06-13,unspecified,vikram.miller.20240377@example.com,+1-539-728-4300,Computer Science,2022,3.00
+20240378,Wei,Tanaka,2002-04-04,female,wei.tanaka.20240378@example.com,+1-800-821-3320,Electrical Eng,2018,3.29
+20240379,Lucas,Novak,2003-03-09,other,lucas.novak.20240379@example.com,+1-878-505-2655,Information Tech,2018,2.82
+20240380,Camille,Chen,1998-07-14,unspecified,camille.chen.20240380@example.com,+1-698-764-6198,Management,2023,2.31
+20240381,Kenji,Schmidt,2003-01-02,male,kenji.schmidt.20240381@example.com,+1-514-851-5825,Physics,2019,3.92
+20240382,Wei,Brown,2007-11-06,female,wei.brown.20240382@example.com,+1-816-425-4619,Electrical Eng,2021,3.32
+20240383,Sophia,Bishara,1996-09-29,other,sophia.bishara.20240383@example.com,+1-371-751-2453,Mathematics,2019,1.85
+20240384,Pierre,Haddad,1999-09-14,female,pierre.haddad.20240384@example.com,+1-462-905-2770,Mathematics,2019,1.53
+20240385,Asha,Verma,2004-05-30,unspecified,asha.verma.20240385@example.com,+1-587-459-9946,Chemistry,2019,2.46
+20240386,René,Gupta,2007-12-19,male,rené.gupta.20240386@example.com,+1-662-175-1547,Electrical Eng,2023,3.57
+20240387,Camila,Sharma,1997-05-07,other,camila.sharma.20240387@example.com,+1-584-264-2228,Electrical Eng,2018,2.30
+20240388,Olivia,Tanaka,2005-10-29,female,olivia.tanaka.20240388@example.com,+1-869-268-8113,Physics,2023,2.99
+20240389,Min-jun,Verma,1999-08-11,unspecified,minjun.verma.20240389@example.com,+1-767-839-9849,Information Tech,2019,1.75
+20240390,María,Laurent,2000-04-29,female,maría.laurent.20240390@example.com,+1-785-662-9043,Physics,2018,2.20
+20240391,Sakura,Verma,2004-08-03,other,sakura.verma.20240391@example.com,+1-840-714-8869,Management,2018,2.40
+20240392,Tariq,Gupta,1998-10-31,other,tariq.gupta.20240392@example.com,+1-684-964-2892,Data Science,2023,1.56
+20240393,Valentina,Lindqvist,2005-12-20,other,valentina.lindqvist.20240393@example.com,+1-857-657-7349,Data Science,2023,2.49
+20240394,Mei,Suzuki,2003-04-15,unspecified,mei.suzuki.20240394@example.com,+1-469-550-8619,Computer Science,2019,3.71
+20240395,María,Miller,2007-08-28,male,maría.miller.20240395@example.com,+1-883-199-2404,Information Tech,2018,3.59
+20240396,Lukas,Janssen,2000-02-07,female,lukas.janssen.20240396@example.com,+1-735-528-9773,Physics,2022,2.85
+20240397,Rajesh,Perez,2005-09-06,female,rajesh.perez.20240397@example.com,+1-931-135-9226,Physics,2020,3.70
+20240398,Hiroshi,Nair,2005-01-26,male,hiroshi.nair.20240398@example.com,+1-397-229-1699,Mechanical Eng,2019,3.87
+20240399,Pradeep,Kumar,2004-10-06,male,pradeep.kumar.20240399@example.com,+1-464-427-2097,Economics,2019,3.97
+20240400,Olivia,Al-Mansoor,2007-05-20,other,olivia.almansoor.20240400@example.com,+1-669-994-1202,Biotechnology,2020,2.89
+20240401,Qian,Nair,1998-04-29,female,qian.nair.20240401@example.com,+1-776-898-2654,Data Science,2022,2.54
+20240402,Mateo,Kowalski,2002-09-17,other,mateo.kowalski.20240402@example.com,+1-870-597-8750,Physics,2021,2.84
+20240403,Ananya,Brown,1998-03-24,unspecified,ananya.brown.20240403@example.com,+1-605-439-4892,Computer Science,2022,2.19
+20240404,Sneha,Fischer,2001-01-09,female,sneha.fischer.20240404@example.com,+1-510-418-5593,Mathematics,2020,2.69
+20240405,Arjun,Novak,1997-03-15,male,arjun.novak.20240405@example.com,+1-507-861-8259,Electrical Eng,2024,3.24
+20240406,Marie,Li,1997-01-01,unspecified,marie.li.20240406@example.com,+1-616-858-8937,Mechanical Eng,2019,3.32
+20240407,Mia,Popov,1998-07-26,other,mia.popov.20240407@example.com,+1-718-513-3222,Information Tech,2018,1.64
+20240408,Rahul,Brown,1999-07-03,female,rahul.brown.20240408@example.com,+1-233-567-1828,Mechanical Eng,2024,1.98
+20240409,Max,Schmidt,2003-04-06,unspecified,max.schmidt.20240409@example.com,+1-606-750-3029,Biotechnology,2024,2.00
+20240410,Rahul,Davis,2005-01-02,unspecified,rahul.davis.20240410@example.com,+1-764-458-6640,Economics,2019,2.43
+20240411,Min-jun,Ivanov,1997-01-10,female,minjun.ivanov.20240411@example.com,+1-250-266-4511,Physics,2020,3.74
+20240412,Amina,Moreau,1999-08-21,unspecified,amina.moreau.20240412@example.com,+1-220-985-1145,Biotechnology,2020,2.06
+20240413,Rajesh,Smith,1995-03-11,other,rajesh.smith.20240413@example.com,+1-512-829-5511,Economics,2019,3.12
+20240414,Pradeep,Al-Mansoor,2005-04-18,male,pradeep.almansoor.20240414@example.com,+1-509-793-9530,Chemistry,2020,3.63
+20240415,Björn,Sanchez,2006-06-22,other,björn.sanchez.20240415@example.com,+1-862-708-5631,Biotechnology,2023,1.76
+20240416,Alejandro,Simon,1996-06-06,other,alejandro.simon.20240416@example.com,+1-532-982-5536,Management,2020,1.77
+20240417,María,Moreau,2001-09-13,male,maría.moreau.20240417@example.com,+1-983-346-1930,Biotechnology,2019,3.28
+20240418,Astrid,Laurent,1998-02-20,female,astrid.laurent.20240418@example.com,+1-709-402-5250,Management,2023,2.30
+20240419,Qian,Khan,1995-10-17,male,qian.khan.20240419@example.com,+1-943-830-4643,Mathematics,2022,2.47
+20240420,Rajesh,Laurent,2001-09-25,male,rajesh.laurent.20240420@example.com,+1-771-285-5813,Management,2024,2.40
+20240421,Noah,Qasim,2000-10-19,male,noah.qasim.20240421@example.com,+1-543-770-2463,Management,2023,1.82
+20240422,Amina,Sato,2001-11-20,other,amina.sato.20240422@example.com,+1-466-699-5817,Mathematics,2021,2.06
+20240423,Kavita,Novak,1996-03-15,female,kavita.novak.20240423@example.com,+1-399-612-2963,Chemistry,2024,1.79
+20240424,René,Hernandez,1996-03-18,male,rené.hernandez.20240424@example.com,+1-405-450-7704,Electrical Eng,2024,2.25
+20240425,Suresh,Johnson,1999-01-17,female,suresh.johnson.20240425@example.com,+1-540-746-3897,Chemistry,2024,2.29
+20240426,Jean,Dubois,2005-02-20,male,jean.dubois.20240426@example.com,+1-790-882-3595,Electrical Eng,2020,1.65
+20240427,Arjun,Lindqvist,1996-12-22,unspecified,arjun.lindqvist.20240427@example.com,+1-639-513-8029,Management,2019,3.41
+20240428,Pooja,Al-Mansoor,2006-12-21,other,pooja.almansoor.20240428@example.com,+1-529-875-9700,Computer Science,2019,1.51
+20240429,Fatima,Sharma,2000-07-31,other,fatima.sharma.20240429@example.com,+1-332-205-7284,Civil Engineering,2019,3.19
+20240430,Valentina,Williams,1996-01-10,other,valentina.williams.20240430@example.com,+1-945-632-9587,Chemistry,2020,1.66
+20240431,Camille,Farah,1998-01-01,unspecified,camille.farah.20240431@example.com,+1-968-292-3701,Mathematics,2020,3.72
+20240432,Astrid,Sharma,1997-12-10,female,astrid.sharma.20240432@example.com,+1-716-273-3017,Economics,2019,2.07
+20240433,Max,Schmidt,1995-11-03,other,max.schmidt.20240433@example.com,+1-838-149-1785,Biotechnology,2021,3.13
+20240434,Sophia,Moreau,1996-01-31,female,sophia.moreau.20240434@example.com,+1-654-489-3024,Physics,2023,3.59
+20240435,José,Qasim,1999-08-11,female,josé.qasim.20240435@example.com,+1-630-777-2654,Civil Engineering,2023,3.25
+20240436,Carlos,Torres,1998-01-28,female,carlos.torres.20240436@example.com,+1-936-732-2928,Biotechnology,2021,3.01
+20240437,Mateo,Nair,2006-03-01,male,mateo.nair.20240437@example.com,+1-735-306-6864,Civil Engineering,2019,3.46
+20240438,Chao,Zhang,2007-04-18,male,chao.zhang.20240438@example.com,+1-692-438-4842,Information Tech,2021,1.90
+20240439,Asha,Rao,1997-06-23,unspecified,asha.rao.20240439@example.com,+1-292-898-9383,Electrical Eng,2024,3.18
+20240440,Emma,Schneider,2000-09-27,male,emma.schneider.20240440@example.com,+1-503-370-8606,Chemistry,2023,3.31
+20240441,Sneha,Gupta,1995-11-20,other,sneha.gupta.20240441@example.com,+1-893-420-7979,Mathematics,2024,3.53
+20240442,Lucas,Gupta,1996-01-11,male,lucas.gupta.20240442@example.com,+1-862-274-6384,Management,2018,3.63
+20240443,Hannah,Haddad,2001-01-06,female,hannah.haddad.20240443@example.com,+1-550-287-2865,Mathematics,2023,3.89
+20240444,Astrid,Khan,2001-02-04,unspecified,astrid.khan.20240444@example.com,+1-689-919-7909,Information Tech,2024,3.91
+20240445,Ji-woo,Nair,1996-04-25,male,jiwoo.nair.20240445@example.com,+1-626-704-8908,Data Science,2024,1.83
+20240446,Abhay,Brown,2003-01-16,female,abhay.brown.20240446@example.com,+1-944-233-8914,Management,2022,3.03
+20240447,Arjun,Nair,2004-11-19,female,arjun.nair.20240447@example.com,+1-870-421-1202,Civil Engineering,2018,3.72
+20240448,Amina,Laurent,2006-08-23,female,amina.laurent.20240448@example.com,+1-877-844-5072,Physics,2022,3.68
+20240449,Pooja,Sato,2003-08-19,female,pooja.sato.20240449@example.com,+1-858-260-9283,Computer Science,2019,3.16
+20240450,Rajesh,Novak,1998-09-16,unspecified,rajesh.novak.20240450@example.com,+1-446-438-5557,Mathematics,2018,2.74
+20240451,Sneha,Rodriguez,2003-06-29,male,sneha.rodriguez.20240451@example.com,+1-670-554-8341,Data Science,2021,2.06
+20240452,Olivia,Novak,2002-02-02,unspecified,olivia.novak.20240452@example.com,+1-869-118-2681,Information Tech,2018,2.75
+20240453,Astrid,Al-Sayed,2007-04-26,female,astrid.alsayed.20240453@example.com,+1-833-752-5990,Economics,2018,1.59
+20240454,Zainab,Moreau,2002-08-24,female,zainab.moreau.20240454@example.com,+1-665-439-8751,Mechanical Eng,2020,3.18
+20240455,Max,Schmidt,1997-03-09,male,max.schmidt.20240455@example.com,+1-549-463-5783,Computer Science,2024,2.63
+20240456,Mia,Weber,1998-09-06,male,mia.weber.20240456@example.com,+1-960-838-7704,Information Tech,2021,1.77
+20240457,Sophia,Wang,1999-03-17,unspecified,sophia.wang.20240457@example.com,+1-668-944-4122,Mechanical Eng,2018,3.03
+20240458,Camille,Gupta,1996-01-16,female,camille.gupta.20240458@example.com,+1-668-774-9260,Chemistry,2023,3.39
+20240459,Yan,Bishara,1996-02-02,unspecified,yan.bishara.20240459@example.com,+1-694-620-3903,Economics,2022,1.51
+20240460,Kenji,Schneider,1997-04-28,other,kenji.schneider.20240460@example.com,+1-593-528-5067,Biotechnology,2021,3.54
+20240461,Sofia,Khan,2001-08-06,male,sofia.khan.20240461@example.com,+1-622-716-9393,Electrical Eng,2021,3.91
+20240462,Alejandro,Ivanov,2002-01-15,male,alejandro.ivanov.20240462@example.com,+1-414-739-5760,Mechanical Eng,2023,3.25
+20240463,Lukas,Simon,1998-12-27,other,lukas.simon.20240463@example.com,+1-318-879-6771,Information Tech,2022,1.83
+20240464,Pooja,Sanchez,2004-05-12,other,pooja.sanchez.20240464@example.com,+1-213-635-2744,Physics,2023,2.93
+20240465,Rahul,Al-Mansoor,1996-04-08,other,rahul.almansoor.20240465@example.com,+1-493-799-5105,Electrical Eng,2019,1.86
+20240466,Hiroshi,Ivanov,2001-08-14,female,hiroshi.ivanov.20240466@example.com,+1-663-204-4675,Mathematics,2019,1.66
+20240467,Müller,Davis,2001-06-14,female,müller.davis.20240467@example.com,+1-596-526-6122,Physics,2023,2.78
+20240468,Sneha,Rao,1999-07-22,unspecified,sneha.rao.20240468@example.com,+1-848-821-7025,Mechanical Eng,2022,3.36
+20240469,Tariq,MacLeod,1999-05-05,unspecified,tariq.macleod.20240469@example.com,+1-899-176-4063,Electrical Eng,2020,3.31
+20240470,Kenji,Fischer,2003-06-18,unspecified,kenji.fischer.20240470@example.com,+1-769-370-3131,Civil Engineering,2018,2.78
+20240471,Min-jun,Sanchez,1995-02-16,unspecified,minjun.sanchez.20240471@example.com,+1-358-140-3518,Information Tech,2020,3.62
+20240472,Marie,Ramirez,2001-10-03,other,marie.ramirez.20240472@example.com,+1-924-425-9608,Data Science,2021,1.63
+20240473,Amina,Brown,2006-05-01,unspecified,amina.brown.20240473@example.com,+1-749-513-2506,Biotechnology,2019,2.80
+20240474,Lukas,Miller,2002-06-11,other,lukas.miller.20240474@example.com,+1-423-870-9691,Civil Engineering,2020,3.71
+20240475,Rajesh,Gonzalez,1995-03-14,other,rajesh.gonzalez.20240475@example.com,+1-446-757-4994,Chemistry,2018,3.56
+20240476,Rohan,Simon,2003-07-22,female,rohan.simon.20240476@example.com,+1-462-653-5633,Physics,2024,3.71
+20240477,Rahul,Hernandez,2003-05-30,unspecified,rahul.hernandez.20240477@example.com,+1-244-403-4154,Chemistry,2022,3.56
+20240478,Marie,Rodriguez,1997-02-25,female,marie.rodriguez.20240478@example.com,+1-267-315-4492,Management,2019,1.71
+20240479,Pradeep,Ivanov,2007-01-23,unspecified,pradeep.ivanov.20240479@example.com,+1-273-864-3519,Management,2024,1.76
+20240480,Rahul,Al-Nuaimi,1995-11-07,female,rahul.alnuaimi.20240480@example.com,+1-382-913-5127,Computer Science,2018,3.29
+20240481,Emma,Perez,2000-10-19,unspecified,emma.perez.20240481@example.com,+1-845-514-8094,Chemistry,2021,3.55
+20240482,Jean,Sharma,1997-08-27,female,jean.sharma.20240482@example.com,+1-937-733-2036,Management,2022,2.47
+20240483,Rohan,Weber,2003-01-09,female,rohan.weber.20240483@example.com,+1-902-408-2417,Civil Engineering,2022,3.62
+20240484,Mateo,O'Connor,2003-07-22,female,mateo.oconnor.20240484@example.com,+1-360-646-4602,Chemistry,2021,3.82
+20240485,Yan,Fischer,2007-03-29,male,yan.fischer.20240485@example.com,+1-893-914-7113,Civil Engineering,2020,2.48
+20240486,Aarav,Gonzalez,1998-03-04,female,aarav.gonzalez.20240486@example.com,+1-786-710-7456,Computer Science,2018,3.69
+20240487,Liam,Chen,2002-09-17,unspecified,liam.chen.20240487@example.com,+1-724-245-3637,Management,2019,2.03
+20240488,Mei,Miller,2000-09-01,female,mei.miller.20240488@example.com,+1-887-918-1891,Electrical Eng,2019,3.04
+20240489,Kavita,Moreau,2001-07-09,female,kavita.moreau.20240489@example.com,+1-300-302-8982,Civil Engineering,2023,2.87
+20240490,Pierre,Sato,2000-04-05,other,pierre.sato.20240490@example.com,+1-271-298-6206,Economics,2018,1.82
+20240491,Arjun,Haddad,2001-11-09,male,arjun.haddad.20240491@example.com,+1-780-473-6182,Economics,2023,2.32
+20240492,Pradeep,Williams,2000-07-09,male,pradeep.williams.20240492@example.com,+1-957-756-8145,Information Tech,2024,1.51
+20240493,Sofia,Ivanov,2002-06-09,unspecified,sofia.ivanov.20240493@example.com,+1-567-893-6004,Chemistry,2021,2.40
+20240494,Arjun,Gonzalez,1996-11-02,other,arjun.gonzalez.20240494@example.com,+1-751-301-5312,Electrical Eng,2024,1.77
+20240495,Emma,Schneider,1995-06-02,female,emma.schneider.20240495@example.com,+1-792-514-4485,Economics,2024,1.69
+20240496,Ananya,Gonzalez,2007-02-08,male,ananya.gonzalez.20240496@example.com,+1-601-328-5767,Mathematics,2021,2.15
+20240497,Yan,Al-Nuaimi,1997-01-11,other,yan.alnuaimi.20240497@example.com,+1-210-778-4913,Biotechnology,2021,2.75
+20240498,Ji-woo,O'Connor,2005-01-03,male,jiwoo.oconnor.20240498@example.com,+1-779-775-3395,Economics,2019,2.79
+20240499,Pooja,Sato,2005-12-08,female,pooja.sato.20240499@example.com,+1-578-339-1701,Civil Engineering,2019,1.60
+20240500,Zainab,Hernandez,2003-02-07,unspecified,zainab.hernandez.20240500@example.com,+1-247-140-6309,Chemistry,2021,3.77
+20240501,Sophia,Schmidt,2001-02-18,other,sophia.schmidt.20240501@example.com,+1-757-683-3848,Economics,2024,3.92
+20240502,René,Moreau,1996-09-29,other,rené.moreau.20240502@example.com,+1-428-628-7649,Physics,2022,2.45
+20240503,Hannah,Popov,2005-12-02,unspecified,hannah.popov.20240503@example.com,+1-206-613-3276,Economics,2024,3.67
+20240504,Abhay,Williams,2006-07-17,other,abhay.williams.20240504@example.com,+1-353-291-3578,Mechanical Eng,2023,2.07
+20240505,Max,Ramirez,1997-08-27,male,max.ramirez.20240505@example.com,+1-538-837-2856,Physics,2023,3.29
+20240506,Pooja,Simon,1999-09-23,male,pooja.simon.20240506@example.com,+1-620-122-4992,Management,2022,2.70
+20240507,Rohan,Smith,1998-08-12,female,rohan.smith.20240507@example.com,+1-350-157-3725,Economics,2019,2.93
+20240508,María,Brown,2004-02-04,female,maría.brown.20240508@example.com,+1-945-777-5644,Information Tech,2022,2.79
+20240509,Liam,Garcia,2005-07-28,unspecified,liam.garcia.20240509@example.com,+1-424-950-7730,Electrical Eng,2024,2.62
+20240510,Hiroshi,Lindqvist,1999-01-29,other,hiroshi.lindqvist.20240510@example.com,+1-941-802-6614,Electrical Eng,2022,2.96
+20240511,Suresh,Ramirez,2000-02-26,unspecified,suresh.ramirez.20240511@example.com,+1-311-116-4315,Electrical Eng,2021,2.98
+20240512,Qian,Popov,1997-02-27,unspecified,qian.popov.20240512@example.com,+1-814-139-9706,Economics,2019,1.87
+20240513,Isabella,Kumar,1997-12-03,female,isabella.kumar.20240513@example.com,+1-864-541-9553,Management,2022,2.71
+20240514,Qian,Suzuki,2006-11-19,male,qian.suzuki.20240514@example.com,+1-987-490-6742,Chemistry,2021,3.69
+20240515,Noah,Farah,2005-09-13,male,noah.farah.20240515@example.com,+1-490-712-9908,Data Science,2024,1.83
+20240516,Chao,Wang,1995-02-28,female,chao.wang.20240516@example.com,+1-207-484-4365,Biotechnology,2022,1.97
+20240517,Jean,Al-Sayed,1998-06-21,other,jean.alsayed.20240517@example.com,+1-748-533-6990,Civil Engineering,2021,2.41
+20240518,Sofia,Simon,1999-07-27,unspecified,sofia.simon.20240518@example.com,+1-579-672-8925,Electrical Eng,2021,2.49
+20240519,José,Chen,2003-12-06,male,josé.chen.20240519@example.com,+1-321-865-4764,Management,2023,2.94
+20240520,Deepika,Lindqvist,1998-08-18,male,deepika.lindqvist.20240520@example.com,+1-610-904-6544,Biotechnology,2018,3.25
+20240521,Sneha,Williams,1995-02-13,female,sneha.williams.20240521@example.com,+1-682-714-8133,Electrical Eng,2024,2.47
+20240522,Olivia,Singh,2003-04-26,female,olivia.singh.20240522@example.com,+1-593-510-9536,Information Tech,2018,2.16
+20240523,Mateo,Schmidt,1996-04-15,male,mateo.schmidt.20240523@example.com,+1-706-549-1175,Management,2024,3.91
+20240524,Tariq,Novak,2006-08-15,male,tariq.novak.20240524@example.com,+1-813-622-9451,Computer Science,2020,3.14
+20240525,Hassan,Torres,1995-10-23,male,hassan.torres.20240525@example.com,+1-200-261-2422,Management,2020,1.92
+20240526,Sofia,MacLeod,2003-11-12,male,sofia.macleod.20240526@example.com,+1-215-854-2124,Biotechnology,2021,2.50
+20240527,Olivia,Gonzalez,2007-07-17,other,olivia.gonzalez.20240527@example.com,+1-483-331-4187,Mathematics,2022,2.21
+20240528,Suresh,Khan,2000-11-08,unspecified,suresh.khan.20240528@example.com,+1-309-672-2185,Biotechnology,2019,2.94
+20240529,Camila,Tanaka,2006-07-06,other,camila.tanaka.20240529@example.com,+1-653-486-8923,Information Tech,2020,3.87
+20240530,Youssef,O'Connor,2005-04-16,unspecified,youssef.oconnor.20240530@example.com,+1-228-593-2904,Economics,2023,2.35
+20240531,María,Singh,1999-12-11,male,maría.singh.20240531@example.com,+1-622-461-9462,Mathematics,2023,2.46
+20240532,Aarav,Weber,2000-07-26,female,aarav.weber.20240532@example.com,+1-889-866-6603,Physics,2020,3.58
+20240533,Emma,Gonzalez,2005-09-08,other,emma.gonzalez.20240533@example.com,+1-787-375-3994,Mechanical Eng,2020,3.83
+20240534,Fatima,Bishara,2000-04-07,male,fatima.bishara.20240534@example.com,+1-411-334-4322,Civil Engineering,2023,3.34
+20240535,Youssef,Ivanov,1998-07-01,female,youssef.ivanov.20240535@example.com,+1-280-792-9071,Data Science,2024,3.05
+20240536,Asha,O'Connor,1995-12-13,unspecified,asha.oconnor.20240536@example.com,+1-835-422-9066,Mathematics,2024,3.64
+20240537,Sofia,Bishara,2006-06-19,unspecified,sofia.bishara.20240537@example.com,+1-968-690-3101,Mechanical Eng,2020,1.96
+20240538,Sneha,Hernandez,2005-09-23,female,sneha.hernandez.20240538@example.com,+1-555-503-3863,Biotechnology,2022,3.50
+20240539,Suresh,Nair,2005-04-26,female,suresh.nair.20240539@example.com,+1-890-315-7216,Computer Science,2020,3.25
+20240540,Noah,Liu,2000-10-28,other,noah.liu.20240540@example.com,+1-475-582-6621,Mechanical Eng,2019,2.40
+20240541,Max,Brown,1999-09-21,other,max.brown.20240541@example.com,+1-610-386-8384,Mathematics,2021,2.75
+20240542,Mei,Perez,2007-12-01,male,mei.perez.20240542@example.com,+1-938-376-4863,Data Science,2023,1.83
+20240543,Lakshmi,Novak,1998-04-09,male,lakshmi.novak.20240543@example.com,+1-209-280-7906,Chemistry,2024,2.45
+20240544,Shreya,Smith,2006-08-06,other,shreya.smith.20240544@example.com,+1-507-356-1781,Chemistry,2022,3.99
+20240545,Björn,Gupta,1996-05-06,other,björn.gupta.20240545@example.com,+1-844-198-8370,Chemistry,2019,3.23
+20240546,Pierre,Wang,2007-07-27,other,pierre.wang.20240546@example.com,+1-220-521-2986,Mathematics,2022,2.40
+20240547,Lukas,Kowalski,1999-06-18,male,lukas.kowalski.20240547@example.com,+1-563-432-9363,Civil Engineering,2022,3.20
+20240548,Arjun,MacLeod,1996-10-04,other,arjun.macleod.20240548@example.com,+1-846-248-3745,Chemistry,2021,3.34
+20240549,Camille,Al-Sayed,2007-10-27,female,camille.alsayed.20240549@example.com,+1-365-451-4739,Data Science,2021,3.08
+20240550,Jean,Liu,2000-12-31,unspecified,jean.liu.20240550@example.com,+1-655-899-6950,Civil Engineering,2022,3.13
+20240551,Deepika,Al-Sayed,1995-07-09,male,deepika.alsayed.20240551@example.com,+1-457-861-2311,Management,2019,1.92
+20240552,Zainab,Williams,1997-02-21,unspecified,zainab.williams.20240552@example.com,+1-255-126-7504,Biotechnology,2018,2.49
+20240553,Liam,Gupta,1998-06-26,unspecified,liam.gupta.20240553@example.com,+1-434-353-5655,Civil Engineering,2018,2.16
+20240554,Abhay,Dubois,2006-10-25,male,abhay.dubois.20240554@example.com,+1-235-779-6846,Computer Science,2024,1.82
+20240555,Marie,Kowalski,2007-02-15,unspecified,marie.kowalski.20240555@example.com,+1-914-652-3900,Electrical Eng,2020,2.69
+20240556,Suresh,Dubois,2007-08-26,other,suresh.dubois.20240556@example.com,+1-693-652-4721,Mathematics,2021,3.37
+20240557,Olivia,Haddad,2004-03-30,male,olivia.haddad.20240557@example.com,+1-210-100-9574,Civil Engineering,2020,2.27
+20240558,Yan,Sato,2007-01-01,unspecified,yan.sato.20240558@example.com,+1-506-109-8052,Chemistry,2018,2.22
+20240559,Camila,Ramirez,1995-03-01,other,camila.ramirez.20240559@example.com,+1-621-674-8161,Mechanical Eng,2022,2.08
+20240560,Björn,Davis,2003-09-28,unspecified,björn.davis.20240560@example.com,+1-469-181-7917,Mechanical Eng,2024,1.91
+20240561,Layla,Hernandez,2001-02-05,other,layla.hernandez.20240561@example.com,+1-392-973-2121,Physics,2020,3.41
+20240562,Mei,Smith,2005-03-19,unspecified,mei.smith.20240562@example.com,+1-917-737-9060,Civil Engineering,2022,2.22
+20240563,Fatima,Liu,1996-02-11,female,fatima.liu.20240563@example.com,+1-304-388-5410,Electrical Eng,2022,1.55
+20240564,Wei,Schmidt,1995-03-09,female,wei.schmidt.20240564@example.com,+1-215-605-4558,Electrical Eng,2019,2.60
+20240565,Camille,Al-Sayed,2006-03-06,unspecified,camille.alsayed.20240565@example.com,+1-232-438-2314,Information Tech,2020,2.28
+20240566,Hiroshi,Verma,2003-10-20,unspecified,hiroshi.verma.20240566@example.com,+1-396-961-5097,Electrical Eng,2018,2.17
+20240567,René,Ivanov,2000-08-01,unspecified,rené.ivanov.20240567@example.com,+1-955-134-4263,Mechanical Eng,2021,1.53
+20240568,Suresh,Fischer,2006-09-09,male,suresh.fischer.20240568@example.com,+1-598-797-6113,Chemistry,2023,3.43
+20240569,Marie,Williams,1995-12-12,female,marie.williams.20240569@example.com,+1-692-753-5895,Civil Engineering,2023,3.07
+20240570,Tariq,Suzuki,1999-11-20,male,tariq.suzuki.20240570@example.com,+1-644-432-1246,Management,2018,3.72
+20240571,Ji-woo,Lindqvist,1997-09-07,male,jiwoo.lindqvist.20240571@example.com,+1-243-695-8786,Computer Science,2021,2.19
+20240572,Sakura,Suzuki,2000-07-30,unspecified,sakura.suzuki.20240572@example.com,+1-902-733-6544,Data Science,2019,3.43
+20240573,Vikram,Verma,1998-06-14,female,vikram.verma.20240573@example.com,+1-699-338-6189,Electrical Eng,2023,2.39
+20240574,Lukas,Janssen,1999-04-30,unspecified,lukas.janssen.20240574@example.com,+1-941-237-5107,Mathematics,2018,3.73
+20240575,Rohan,Bishara,2007-07-16,unspecified,rohan.bishara.20240575@example.com,+1-780-291-9906,Mechanical Eng,2020,3.27
+20240576,Lukas,Liu,2001-03-05,male,lukas.liu.20240576@example.com,+1-743-258-8362,Data Science,2024,3.33
+20240577,Camila,Popov,2003-03-27,female,camila.popov.20240577@example.com,+1-718-488-4039,Management,2021,2.16
+20240578,Priya,Torres,2000-05-10,female,priya.torres.20240578@example.com,+1-751-938-7348,Management,2020,3.64
+20240579,Fatima,Hernandez,2007-05-15,other,fatima.hernandez.20240579@example.com,+1-619-756-6276,Mathematics,2019,3.21
+20240580,Lucas,Gupta,1996-06-30,male,lucas.gupta.20240580@example.com,+1-232-306-2753,Electrical Eng,2018,2.81
+20240581,Arjun,Jones,2007-10-22,unspecified,arjun.jones.20240581@example.com,+1-701-638-5193,Management,2023,1.75
+20240582,Sneha,Suzuki,1996-08-03,male,sneha.suzuki.20240582@example.com,+1-703-952-2310,Management,2018,2.05
+20240583,Kavita,Janssen,2003-02-04,unspecified,kavita.janssen.20240583@example.com,+1-925-159-5355,Mathematics,2022,3.10
+20240584,Rohan,Schneider,2001-10-25,male,rohan.schneider.20240584@example.com,+1-299-203-4784,Biotechnology,2018,1.68
+20240585,Müller,Jones,2000-07-30,male,müller.jones.20240585@example.com,+1-967-671-7802,Biotechnology,2022,1.98
+20240586,Sophia,MacLeod,2003-01-11,unspecified,sophia.macleod.20240586@example.com,+1-881-537-2705,Information Tech,2023,3.10
+20240587,Ji-woo,Lindqvist,2004-01-03,other,jiwoo.lindqvist.20240587@example.com,+1-361-646-8258,Management,2022,1.95
+20240588,Hannah,Liu,2002-04-13,other,hannah.liu.20240588@example.com,+1-982-748-8054,Physics,2024,2.88
+20240589,Marie,Ramirez,2007-03-28,unspecified,marie.ramirez.20240589@example.com,+1-962-360-6898,Biotechnology,2019,2.10
+20240590,Deepika,Haddad,1995-01-02,female,deepika.haddad.20240590@example.com,+1-810-116-9480,Civil Engineering,2023,3.90
+20240591,Yan,Chen,1999-12-23,other,yan.chen.20240591@example.com,+1-990-941-5521,Computer Science,2019,1.52
+20240592,Sakura,Gupta,2002-12-23,male,sakura.gupta.20240592@example.com,+1-575-696-5093,Civil Engineering,2019,1.59
+20240593,Hassan,Wang,1997-01-22,unspecified,hassan.wang.20240593@example.com,+1-422-851-2264,Economics,2022,3.53
+20240594,Marie,Lindqvist,2005-12-13,female,marie.lindqvist.20240594@example.com,+1-857-407-1612,Economics,2024,2.71
+20240595,René,Kumar,2002-07-02,unspecified,rené.kumar.20240595@example.com,+1-323-990-4714,Physics,2020,3.45
+20240596,Aarav,Dubois,2003-07-31,other,aarav.dubois.20240596@example.com,+1-242-426-9846,Biotechnology,2018,3.44
+20240597,Sakura,Liu,1999-12-14,female,sakura.liu.20240597@example.com,+1-949-502-8300,Management,2019,2.76
+20240598,Olivia,Miller,2003-11-05,male,olivia.miller.20240598@example.com,+1-284-587-1807,Mathematics,2019,2.58
+20240599,Astrid,Wang,2006-04-03,male,astrid.wang.20240599@example.com,+1-692-672-4245,Electrical Eng,2021,1.71
+20240600,Arjun,Khan,1999-05-26,male,arjun.khan.20240600@example.com,+1-273-372-8046,Mechanical Eng,2022,3.13
+20240601,Marie,Simon,1997-01-03,unspecified,marie.simon.20240601@example.com,+1-574-456-4120,Physics,2018,3.81
+20240602,Marie,Sato,1995-07-18,other,marie.sato.20240602@example.com,+1-558-731-8245,Electrical Eng,2024,2.98
+20240603,Hiroshi,Haddad,2000-03-27,other,hiroshi.haddad.20240603@example.com,+1-975-845-2405,Electrical Eng,2019,1.61
+20240604,Lucas,Fischer,1998-04-24,other,lucas.fischer.20240604@example.com,+1-551-810-2823,Computer Science,2024,1.64
+20240605,Valentina,Haddad,2002-06-11,male,valentina.haddad.20240605@example.com,+1-759-635-5237,Mechanical Eng,2019,2.68
+20240606,Pooja,Torres,1998-03-03,female,pooja.torres.20240606@example.com,+1-796-779-9631,Physics,2023,3.32
+20240607,Rohan,Wang,2001-05-15,other,rohan.wang.20240607@example.com,+1-676-770-1136,Computer Science,2019,1.93
+20240608,John,Al-Mansoor,2003-01-29,female,john.almansoor.20240608@example.com,+1-499-988-7332,Computer Science,2024,3.15
+20240609,Hassan,Al-Mansoor,1997-03-26,unspecified,hassan.almansoor.20240609@example.com,+1-744-190-4054,Economics,2020,2.77
+20240610,Tariq,Rodriguez,2007-07-30,female,tariq.rodriguez.20240610@example.com,+1-453-642-5995,Computer Science,2023,3.92
+20240611,Pierre,Bishara,1998-07-10,other,pierre.bishara.20240611@example.com,+1-560-463-5953,Management,2018,2.48
+20240612,Layla,Rodriguez,1996-05-22,other,layla.rodriguez.20240612@example.com,+1-230-668-5590,Physics,2023,2.19
+20240613,Amina,Johnson,2003-10-24,male,amina.johnson.20240613@example.com,+1-947-491-9531,Data Science,2023,2.35
+20240614,Hassan,Al-Sayed,1998-06-05,other,hassan.alsayed.20240614@example.com,+1-537-559-9883,Economics,2021,2.10
+20240615,Wei,Garcia,2007-02-21,male,wei.garcia.20240615@example.com,+1-516-805-9582,Electrical Eng,2023,3.13
+20240616,Yan,Farah,1998-04-04,male,yan.farah.20240616@example.com,+1-269-670-9732,Mathematics,2023,3.99
+20240617,Isabella,Brown,1998-04-07,female,isabella.brown.20240617@example.com,+1-623-521-5970,Mathematics,2023,2.29
+20240618,Abhay,Fischer,2001-02-20,male,abhay.fischer.20240618@example.com,+1-334-289-1429,Data Science,2019,3.83
+20240619,Carlos,Ramirez,2000-03-06,male,carlos.ramirez.20240619@example.com,+1-903-126-6886,Mechanical Eng,2022,2.92
+20240620,Liam,Weber,1998-01-03,unspecified,liam.weber.20240620@example.com,+1-865-482-4014,Information Tech,2022,3.45
+20240621,Müller,Bishara,1998-09-03,male,müller.bishara.20240621@example.com,+1-618-882-1245,Computer Science,2019,2.68
+20240622,Carlos,Al-Sayed,1999-07-20,male,carlos.alsayed.20240622@example.com,+1-381-549-9027,Data Science,2024,2.06
+20240623,Marie,Kowalski,2000-07-14,unspecified,marie.kowalski.20240623@example.com,+1-822-852-7232,Computer Science,2021,2.64
+20240624,Jean,Khan,2007-10-30,female,jean.khan.20240624@example.com,+1-311-562-8485,Biotechnology,2022,3.03
+20240625,Rohan,Davis,2003-11-15,female,rohan.davis.20240625@example.com,+1-596-628-1807,Biotechnology,2023,2.80
+20240626,Fatima,Zhang,2001-10-30,other,fatima.zhang.20240626@example.com,+1-370-532-5823,Chemistry,2024,2.60
+20240627,Sneha,Weber,1998-03-11,unspecified,sneha.weber.20240627@example.com,+1-939-612-2854,Data Science,2021,2.79
+20240628,Mei,MacLeod,2007-04-04,unspecified,mei.macleod.20240628@example.com,+1-531-561-1408,Physics,2019,2.96
+20240629,Kenji,Al-Nuaimi,1999-07-13,female,kenji.alnuaimi.20240629@example.com,+1-531-808-3686,Civil Engineering,2021,2.98
+20240630,Isabella,Kumar,2005-01-29,other,isabella.kumar.20240630@example.com,+1-736-824-7292,Data Science,2023,1.79
+20240631,Min-jun,Al-Mansoor,1995-12-26,male,minjun.almansoor.20240631@example.com,+1-779-992-3459,Mathematics,2024,2.88
+20240632,Min-jun,Kowalski,1996-02-25,other,minjun.kowalski.20240632@example.com,+1-947-887-8311,Civil Engineering,2021,1.86
+20240633,Mateo,Dubois,1997-12-13,female,mateo.dubois.20240633@example.com,+1-983-359-1200,Economics,2019,1.95
+20240634,Suresh,Bishara,2007-03-11,female,suresh.bishara.20240634@example.com,+1-705-343-4553,Economics,2024,3.64
+20240635,Rajesh,Al-Nuaimi,1996-10-12,female,rajesh.alnuaimi.20240635@example.com,+1-760-384-4401,Mechanical Eng,2022,2.53
+20240636,Sneha,Brown,2002-10-30,male,sneha.brown.20240636@example.com,+1-883-691-5889,Computer Science,2018,1.87
+20240637,Pierre,Kumar,2004-05-08,male,pierre.kumar.20240637@example.com,+1-491-725-3906,Management,2019,1.62
+20240638,Suresh,Fischer,1995-10-21,other,suresh.fischer.20240638@example.com,+1-577-488-2108,Mathematics,2018,2.95
+20240639,Pradeep,Ivanov,2001-07-26,male,pradeep.ivanov.20240639@example.com,+1-911-980-5496,Data Science,2021,2.88
+20240640,Pierre,Hernandez,1999-09-16,male,pierre.hernandez.20240640@example.com,+1-259-211-9666,Economics,2023,2.53
+20240641,Olivia,Qasim,2001-06-10,other,olivia.qasim.20240641@example.com,+1-738-688-6797,Civil Engineering,2021,3.31
+20240642,Wei,Torres,2006-08-28,unspecified,wei.torres.20240642@example.com,+1-384-724-4812,Chemistry,2023,2.91
+20240643,Camila,Jones,1995-07-16,female,camila.jones.20240643@example.com,+1-412-918-7793,Information Tech,2021,1.50
+20240644,Chao,Patel,2007-07-27,male,chao.patel.20240644@example.com,+1-855-306-5614,Computer Science,2024,2.33
+20240645,José,Lindqvist,2001-09-25,other,josé.lindqvist.20240645@example.com,+1-316-802-6460,Computer Science,2022,1.67
+20240646,Camille,Khan,1995-08-27,male,camille.khan.20240646@example.com,+1-538-953-6536,Mechanical Eng,2024,3.31
+20240647,Pooja,Qasim,1998-01-17,male,pooja.qasim.20240647@example.com,+1-671-985-9797,Management,2021,3.49
+20240648,Pierre,Al-Nuaimi,2004-04-14,female,pierre.alnuaimi.20240648@example.com,+1-506-678-6169,Biotechnology,2023,3.46
+20240649,Priya,Garcia,2002-06-10,other,priya.garcia.20240649@example.com,+1-352-387-1510,Data Science,2024,2.94
+20240650,Camille,Al-Mansoor,1998-09-21,unspecified,camille.almansoor.20240650@example.com,+1-809-219-6050,Electrical Eng,2022,3.07
+20240651,Jean,Schmidt,2004-04-13,unspecified,jean.schmidt.20240651@example.com,+1-580-562-5958,Mechanical Eng,2018,1.58
+20240652,Omar,Hernandez,1997-07-08,female,omar.hernandez.20240652@example.com,+1-294-554-9290,Mechanical Eng,2020,2.26
+20240653,Rahul,Janssen,2006-03-20,male,rahul.janssen.20240653@example.com,+1-695-850-9579,Mathematics,2019,2.71
+20240654,Valentina,MacLeod,1997-03-15,male,valentina.macleod.20240654@example.com,+1-941-137-8526,Mechanical Eng,2024,2.32
+20240655,Müller,Schmidt,1997-08-06,other,müller.schmidt.20240655@example.com,+1-903-968-2426,Computer Science,2018,3.66
+20240656,Pierre,Al-Nuaimi,1997-04-24,other,pierre.alnuaimi.20240656@example.com,+1-791-876-6114,Computer Science,2022,3.72
+20240657,Zainab,Liu,2001-06-05,other,zainab.liu.20240657@example.com,+1-887-220-5467,Chemistry,2020,2.00
+20240658,Sakura,Williams,1995-05-05,female,sakura.williams.20240658@example.com,+1-755-458-6218,Mechanical Eng,2022,2.18
+20240659,Carlos,Johnson,2001-05-09,male,carlos.johnson.20240659@example.com,+1-272-418-6549,Electrical Eng,2022,3.86
+20240660,Abhay,Verma,2005-07-23,female,abhay.verma.20240660@example.com,+1-592-155-2410,Data Science,2023,1.83
+20240661,Pradeep,Khan,2004-12-31,other,pradeep.khan.20240661@example.com,+1-540-937-4246,Civil Engineering,2022,1.95
+20240662,Liam,O'Connor,2007-09-26,female,liam.oconnor.20240662@example.com,+1-679-199-8464,Information Tech,2019,3.41
+20240663,Valentina,Simon,2005-06-09,male,valentina.simon.20240663@example.com,+1-347-981-5227,Mechanical Eng,2021,3.11
+20240664,Max,Khan,2002-05-30,other,max.khan.20240664@example.com,+1-699-130-2070,Chemistry,2024,1.96
+20240665,Rajesh,Nair,2005-05-06,male,rajesh.nair.20240665@example.com,+1-986-456-3087,Civil Engineering,2024,2.38
+20240666,Sophia,Khan,1997-05-26,female,sophia.khan.20240666@example.com,+1-745-572-7566,Civil Engineering,2020,3.54
+20240667,Chao,Davis,2007-04-16,unspecified,chao.davis.20240667@example.com,+1-267-448-4411,Physics,2019,3.05
+20240668,Lakshmi,Lindqvist,2007-09-21,other,lakshmi.lindqvist.20240668@example.com,+1-910-341-3835,Biotechnology,2024,3.95
+20240669,Emma,Fischer,2007-11-17,unspecified,emma.fischer.20240669@example.com,+1-806-710-8584,Data Science,2024,3.83
+20240670,Marie,Gonzalez,2004-12-26,other,marie.gonzalez.20240670@example.com,+1-271-712-2781,Physics,2019,1.74
+20240671,René,Liu,1996-05-18,male,rené.liu.20240671@example.com,+1-794-873-1003,Electrical Eng,2018,2.74
+20240672,Hiroshi,Laurent,2006-12-01,unspecified,hiroshi.laurent.20240672@example.com,+1-791-557-4205,Economics,2020,1.87
+20240673,Zainab,Simon,2001-09-21,other,zainab.simon.20240673@example.com,+1-935-452-2462,Physics,2022,3.69
+20240674,Aarav,Torres,2004-01-25,male,aarav.torres.20240674@example.com,+1-263-478-9992,Civil Engineering,2024,3.97
+20240675,Sneha,Rao,2003-01-21,other,sneha.rao.20240675@example.com,+1-440-542-7459,Computer Science,2018,3.26
+20240676,Jean,Schmidt,2003-07-23,male,jean.schmidt.20240676@example.com,+1-377-586-3278,Management,2021,2.46
+20240677,Fatima,Gonzalez,2003-01-30,unspecified,fatima.gonzalez.20240677@example.com,+1-495-993-3056,Electrical Eng,2024,2.46
+20240678,Yan,Rao,1995-05-09,unspecified,yan.rao.20240678@example.com,+1-647-239-2387,Management,2019,1.68
+20240679,Yan,Moreau,2005-03-24,unspecified,yan.moreau.20240679@example.com,+1-384-565-9346,Economics,2024,3.51
+20240680,Pradeep,Gonzalez,2003-08-18,male,pradeep.gonzalez.20240680@example.com,+1-634-719-1121,Electrical Eng,2020,3.55
+20240681,Shreya,Novak,2006-04-03,unspecified,shreya.novak.20240681@example.com,+1-790-475-1548,Biotechnology,2020,3.33
+20240682,Ananya,Perez,2003-04-08,unspecified,ananya.perez.20240682@example.com,+1-281-245-9624,Information Tech,2018,2.71
+20240683,Sofia,Al-Nuaimi,2006-09-27,female,sofia.alnuaimi.20240683@example.com,+1-683-745-2279,Mechanical Eng,2022,2.79
+20240684,Valentina,Torres,2002-09-15,female,valentina.torres.20240684@example.com,+1-664-624-8687,Chemistry,2022,1.63
+20240685,Pierre,Al-Sayed,2001-08-10,male,pierre.alsayed.20240685@example.com,+1-911-711-5981,Computer Science,2020,2.38
+20240686,María,Verma,2007-12-20,female,maría.verma.20240686@example.com,+1-498-928-1447,Management,2019,3.07
+20240687,Mateo,Bishara,2006-05-04,other,mateo.bishara.20240687@example.com,+1-335-730-5603,Civil Engineering,2018,1.71
+20240688,Sofia,Novak,1997-07-02,male,sofia.novak.20240688@example.com,+1-956-254-8317,Economics,2022,2.14
+20240689,Mia,Janssen,2000-04-18,male,mia.janssen.20240689@example.com,+1-233-451-2382,Biotechnology,2021,1.94
+20240690,Hiroshi,Ramirez,1998-06-16,unspecified,hiroshi.ramirez.20240690@example.com,+1-988-492-4898,Physics,2024,3.83
+20240691,Abhay,Schneider,1999-09-24,other,abhay.schneider.20240691@example.com,+1-857-370-2900,Computer Science,2022,3.09
+20240692,Sneha,Williams,2005-09-06,unspecified,sneha.williams.20240692@example.com,+1-970-645-4828,Information Tech,2020,2.66
+20240693,René,Simon,2005-08-23,male,rené.simon.20240693@example.com,+1-645-112-5731,Biotechnology,2020,3.26
+20240694,Deepika,Al-Mansoor,2006-11-22,female,deepika.almansoor.20240694@example.com,+1-744-752-6797,Data Science,2023,3.20
+20240695,Lakshmi,Torres,2001-02-11,other,lakshmi.torres.20240695@example.com,+1-300-361-7408,Civil Engineering,2020,3.80
+20240696,Kavita,MacLeod,2000-06-03,male,kavita.macleod.20240696@example.com,+1-545-793-3947,Biotechnology,2023,3.19
+20240697,Jean,Gonzalez,1995-03-11,female,jean.gonzalez.20240697@example.com,+1-621-200-9605,Computer Science,2024,1.53
+20240698,Sophia,Simon,1999-12-03,other,sophia.simon.20240698@example.com,+1-397-134-1388,Civil Engineering,2023,2.61
+20240699,Olivia,Verma,1999-11-12,female,olivia.verma.20240699@example.com,+1-322-188-3128,Information Tech,2022,3.85
+20240700,René,Laurent,2007-09-12,male,rené.laurent.20240700@example.com,+1-912-288-5150,Data Science,2024,3.41
+20240701,Camila,Al-Nuaimi,1996-09-12,unspecified,camila.alnuaimi.20240701@example.com,+1-987-537-6298,Civil Engineering,2023,3.15
+20240702,José,Williams,2001-03-21,female,josé.williams.20240702@example.com,+1-597-440-1984,Physics,2024,3.45
+20240703,María,Popov,2004-11-18,unspecified,maría.popov.20240703@example.com,+1-824-502-3923,Mechanical Eng,2018,2.16
+20240704,Arjun,Gupta,2004-09-02,female,arjun.gupta.20240704@example.com,+1-932-365-2692,Chemistry,2019,1.86
+20240705,Ananya,Singh,2000-08-14,unspecified,ananya.singh.20240705@example.com,+1-709-252-1014,Computer Science,2024,1.68
+20240706,Ananya,Laurent,1998-05-26,other,ananya.laurent.20240706@example.com,+1-788-103-9444,Physics,2023,2.48
+20240707,Arjun,Qasim,1996-07-28,male,arjun.qasim.20240707@example.com,+1-593-805-8898,Computer Science,2022,2.59
+20240708,Isabella,Perez,2003-01-19,other,isabella.perez.20240708@example.com,+1-256-747-2485,Physics,2020,2.84
+20240709,Max,Lopez,2002-08-17,unspecified,max.lopez.20240709@example.com,+1-863-307-3893,Civil Engineering,2018,3.63
+20240710,Rohan,Al-Mansoor,2001-09-14,unspecified,rohan.almansoor.20240710@example.com,+1-845-805-6886,Data Science,2023,3.15
+20240711,Arjun,Kumar,2004-10-27,male,arjun.kumar.20240711@example.com,+1-236-297-1415,Electrical Eng,2023,3.71
+20240712,Layla,Bishara,2007-02-15,other,layla.bishara.20240712@example.com,+1-746-954-8361,Chemistry,2023,2.47
+20240713,Priya,Patel,2002-07-29,female,priya.patel.20240713@example.com,+1-321-316-9570,Physics,2024,2.35
+20240714,Suresh,Simon,2007-01-13,male,suresh.simon.20240714@example.com,+1-237-853-3319,Data Science,2019,3.68
+20240715,Arjun,Moreau,1996-01-11,male,arjun.moreau.20240715@example.com,+1-376-747-1818,Computer Science,2019,1.55
+20240716,Valentina,Popov,2005-03-26,male,valentina.popov.20240716@example.com,+1-265-937-2742,Economics,2022,3.48
+20240717,Lucas,Bishara,1999-12-12,male,lucas.bishara.20240717@example.com,+1-545-930-7586,Physics,2018,2.99
+20240718,Marie,Nair,2007-12-02,male,marie.nair.20240718@example.com,+1-418-882-1746,Mathematics,2022,3.94
+20240719,Kenji,Tanaka,2001-02-21,unspecified,kenji.tanaka.20240719@example.com,+1-913-478-3703,Electrical Eng,2019,1.66
+20240720,Abhay,Davis,1995-11-30,female,abhay.davis.20240720@example.com,+1-827-485-3584,Management,2019,3.81
+20240721,Priya,Bishara,1995-03-01,female,priya.bishara.20240721@example.com,+1-867-707-5648,Information Tech,2019,1.70
+20240722,Qian,Weber,2005-09-04,male,qian.weber.20240722@example.com,+1-346-755-5439,Mechanical Eng,2023,3.52
+20240723,Deepika,Al-Sayed,1998-11-30,female,deepika.alsayed.20240723@example.com,+1-384-834-9190,Economics,2022,2.10
+20240724,Olivia,Dubois,2001-10-03,unspecified,olivia.dubois.20240724@example.com,+1-771-341-4144,Computer Science,2020,3.57
+20240725,Isabella,Hernandez,2003-02-12,male,isabella.hernandez.20240725@example.com,+1-988-741-4409,Chemistry,2024,3.94
+20240726,Sofia,Verma,1998-05-07,unspecified,sofia.verma.20240726@example.com,+1-380-263-1706,Chemistry,2023,1.98
+20240727,Sneha,Moreau,1999-09-13,other,sneha.moreau.20240727@example.com,+1-831-924-8424,Mathematics,2021,2.41
+20240728,Rohan,Gupta,2007-01-20,male,rohan.gupta.20240728@example.com,+1-696-627-2901,Computer Science,2019,3.35
+20240729,Emma,Davis,2002-04-24,male,emma.davis.20240729@example.com,+1-893-433-4769,Information Tech,2021,3.30
+20240730,Lucas,Liu,2000-04-26,unspecified,lucas.liu.20240730@example.com,+1-584-325-2204,Mechanical Eng,2023,2.07
+20240731,Rajesh,Sanchez,2004-10-10,male,rajesh.sanchez.20240731@example.com,+1-665-282-7346,Economics,2019,2.71
+20240732,Mia,Smith,1999-05-10,other,mia.smith.20240732@example.com,+1-407-443-3084,Civil Engineering,2023,2.64
+20240733,Ananya,Weber,2001-04-17,female,ananya.weber.20240733@example.com,+1-669-528-3804,Chemistry,2019,2.92
+20240734,Camille,Miller,1998-07-08,male,camille.miller.20240734@example.com,+1-766-975-4763,Economics,2024,3.72
+20240735,Olivia,Al-Sayed,2005-12-21,male,olivia.alsayed.20240735@example.com,+1-684-957-8581,Economics,2024,3.64
+20240736,Sofia,Rao,2000-07-13,other,sofia.rao.20240736@example.com,+1-793-327-3440,Physics,2019,3.33
+20240737,Asha,Al-Sayed,1995-11-25,female,asha.alsayed.20240737@example.com,+1-743-503-8852,Physics,2021,3.95
+20240738,Noah,Haddad,1996-11-11,female,noah.haddad.20240738@example.com,+1-949-516-4571,Information Tech,2022,2.74
+20240739,Wei,Sato,1997-01-13,unspecified,wei.sato.20240739@example.com,+1-512-265-8524,Management,2018,2.24
+20240740,Rahul,Al-Nuaimi,1998-02-09,unspecified,rahul.alnuaimi.20240740@example.com,+1-579-741-8607,Electrical Eng,2024,2.66
+20240741,Asha,Kowalski,2003-08-19,other,asha.kowalski.20240741@example.com,+1-233-403-7977,Biotechnology,2023,3.07
+20240742,Carlos,Weber,2007-03-02,male,carlos.weber.20240742@example.com,+1-282-735-6500,Management,2022,3.87
+20240743,Vikram,Rodriguez,2003-03-01,female,vikram.rodriguez.20240743@example.com,+1-574-576-1669,Physics,2018,3.86
+20240744,Max,Suzuki,2007-07-14,female,max.suzuki.20240744@example.com,+1-926-892-4354,Biotechnology,2023,1.94
+20240745,Yan,Tanaka,1997-07-19,unspecified,yan.tanaka.20240745@example.com,+1-970-694-4437,Information Tech,2023,2.10
+20240746,Amina,Liu,2000-12-30,unspecified,amina.liu.20240746@example.com,+1-255-164-7108,Civil Engineering,2022,2.38
+20240747,Lukas,Haddad,2006-10-24,female,lukas.haddad.20240747@example.com,+1-926-644-9730,Chemistry,2024,2.72
+20240748,Camila,Haddad,1996-06-21,unspecified,camila.haddad.20240748@example.com,+1-282-500-3929,Data Science,2019,3.05
+20240749,Mateo,Singh,2001-03-10,male,mateo.singh.20240749@example.com,+1-354-995-4346,Chemistry,2018,1.77
+20240750,Priya,Zhang,2007-02-22,unspecified,priya.zhang.20240750@example.com,+1-630-554-1351,Mathematics,2019,2.54
+20240751,Camila,Jones,2000-03-18,other,camila.jones.20240751@example.com,+1-792-451-6346,Physics,2024,1.66
+20240752,Arjun,Sanchez,2006-11-22,unspecified,arjun.sanchez.20240752@example.com,+1-511-680-3161,Chemistry,2024,3.16
+20240753,Valentina,Williams,2000-02-01,other,valentina.williams.20240753@example.com,+1-988-965-1775,Civil Engineering,2021,3.47
+20240754,Hiroshi,Sato,1998-09-24,male,hiroshi.sato.20240754@example.com,+1-748-392-3986,Information Tech,2022,2.21
+20240755,Kenji,Ivanov,1998-06-11,male,kenji.ivanov.20240755@example.com,+1-242-424-3072,Data Science,2019,3.27
+20240756,Abhay,Wang,1999-08-08,female,abhay.wang.20240756@example.com,+1-524-452-3423,Management,2022,2.42
+20240757,Mia,Haddad,1998-08-24,other,mia.haddad.20240757@example.com,+1-225-514-9182,Data Science,2022,2.85
+20240758,Hiroshi,Al-Nuaimi,1998-07-02,other,hiroshi.alnuaimi.20240758@example.com,+1-922-402-8764,Management,2018,3.82
+20240759,Camila,O'Connor,2007-11-13,male,camila.oconnor.20240759@example.com,+1-946-552-6549,Economics,2023,3.95
+20240760,Lucas,Schneider,1995-11-25,female,lucas.schneider.20240760@example.com,+1-225-511-4610,Civil Engineering,2019,2.70
+20240761,Deepika,Sato,1996-03-26,male,deepika.sato.20240761@example.com,+1-739-327-5553,Economics,2022,1.73
+20240762,Tariq,Sharma,2004-12-28,female,tariq.sharma.20240762@example.com,+1-603-299-9035,Biotechnology,2023,1.71
+20240763,Jean,Ramirez,1996-04-04,other,jean.ramirez.20240763@example.com,+1-351-833-8006,Physics,2023,3.01
+20240764,Mia,Al-Mansoor,2001-05-20,other,mia.almansoor.20240764@example.com,+1-656-995-2435,Civil Engineering,2020,2.43
+20240765,Omar,Schneider,2004-04-27,unspecified,omar.schneider.20240765@example.com,+1-367-925-7944,Civil Engineering,2024,3.72
+20240766,Qian,Smith,1996-12-06,male,qian.smith.20240766@example.com,+1-686-988-9606,Civil Engineering,2019,3.59
+20240767,Pierre,Singh,2003-06-06,female,pierre.singh.20240767@example.com,+1-854-379-7791,Physics,2018,3.83
+20240768,Kenji,Gonzalez,2007-09-27,male,kenji.gonzalez.20240768@example.com,+1-390-952-7254,Mechanical Eng,2024,2.66
+20240769,Camila,Gonzalez,2001-10-09,other,camila.gonzalez.20240769@example.com,+1-772-857-8593,Chemistry,2024,2.73
+20240770,Amina,Sharma,1998-06-15,other,amina.sharma.20240770@example.com,+1-851-583-3034,Management,2020,3.48
+20240771,Mateo,Al-Sayed,2000-06-27,female,mateo.alsayed.20240771@example.com,+1-704-168-6927,Civil Engineering,2018,1.95
+20240772,Pooja,Perez,2000-10-13,unspecified,pooja.perez.20240772@example.com,+1-322-482-9397,Information Tech,2023,2.59
+20240773,Priya,Novak,1996-04-24,other,priya.novak.20240773@example.com,+1-909-238-6855,Chemistry,2019,2.15
+20240774,Min-jun,Verma,2004-05-29,other,minjun.verma.20240774@example.com,+1-496-398-9677,Computer Science,2023,2.18
+20240775,Emma,Rodriguez,1999-02-10,female,emma.rodriguez.20240775@example.com,+1-970-271-9908,Economics,2024,1.98
+20240776,Marie,Kowalski,2001-10-02,other,marie.kowalski.20240776@example.com,+1-747-693-6761,Data Science,2020,2.29
+20240777,Hiroshi,Rao,2001-04-24,unspecified,hiroshi.rao.20240777@example.com,+1-548-266-2678,Physics,2020,1.84
+20240778,Omar,Johnson,1999-03-24,female,omar.johnson.20240778@example.com,+1-671-178-2909,Physics,2024,2.76
+20240779,Wei,Sharma,2001-12-27,other,wei.sharma.20240779@example.com,+1-652-711-9570,Electrical Eng,2023,2.70
+20240780,Camille,Brown,1995-08-24,female,camille.brown.20240780@example.com,+1-331-977-3332,Mechanical Eng,2023,3.27
+20240781,Hassan,Chen,1997-12-02,unspecified,hassan.chen.20240781@example.com,+1-981-902-2830,Information Tech,2018,1.81
+20240782,Emma,Sharma,2004-09-02,male,emma.sharma.20240782@example.com,+1-233-912-9412,Data Science,2018,3.44
+20240783,Vikram,Qasim,2000-09-03,female,vikram.qasim.20240783@example.com,+1-883-110-2581,Civil Engineering,2018,1.80
+20240784,Isabella,Ramirez,1999-06-27,other,isabella.ramirez.20240784@example.com,+1-292-249-5544,Computer Science,2019,2.01
+20240785,Lukas,Sato,2006-03-25,male,lukas.sato.20240785@example.com,+1-783-169-2623,Biotechnology,2024,1.90
+20240786,Aarav,Hernandez,1999-04-19,male,aarav.hernandez.20240786@example.com,+1-204-842-2616,Biotechnology,2020,2.04
+20240787,Omar,Rodriguez,2005-08-24,male,omar.rodriguez.20240787@example.com,+1-889-209-3963,Chemistry,2020,3.63
+20240788,Hannah,Al-Mansoor,2006-07-14,unspecified,hannah.almansoor.20240788@example.com,+1-979-421-3025,Data Science,2019,2.56
+20240789,Kavita,Nair,2006-02-13,other,kavita.nair.20240789@example.com,+1-495-670-1665,Information Tech,2024,2.80
+20240790,Liam,Liu,2003-08-19,unspecified,liam.liu.20240790@example.com,+1-953-419-8273,Economics,2020,2.73
+20240791,Amina,Gonzalez,2004-08-06,female,amina.gonzalez.20240791@example.com,+1-895-476-3937,Chemistry,2019,2.52
+20240792,Aarav,Simon,1997-05-11,unspecified,aarav.simon.20240792@example.com,+1-874-792-2392,Biotechnology,2021,2.73
+20240793,Isabella,Johnson,1997-04-13,male,isabella.johnson.20240793@example.com,+1-572-303-6548,Data Science,2023,2.49
+20240794,Tariq,Ramirez,2004-01-25,male,tariq.ramirez.20240794@example.com,+1-942-611-5563,Physics,2018,3.61
+20240795,Carlos,O'Connor,2003-12-23,unspecified,carlos.oconnor.20240795@example.com,+1-817-514-8938,Management,2020,3.47
+20240796,Sofia,Johnson,1997-06-04,other,sofia.johnson.20240796@example.com,+1-709-336-3205,Chemistry,2018,3.42
+20240797,Rahul,Gupta,1996-07-12,female,rahul.gupta.20240797@example.com,+1-591-719-6356,Electrical Eng,2021,3.34
+20240798,Sakura,Chen,1997-02-28,female,sakura.chen.20240798@example.com,+1-969-632-9064,Management,2024,3.05
+20240799,Kavita,Jones,2006-03-02,other,kavita.jones.20240799@example.com,+1-551-928-9856,Biotechnology,2021,2.23
+20240800,Priya,O'Connor,2004-08-26,unspecified,priya.oconnor.20240800@example.com,+1-522-973-7165,Chemistry,2018,1.58
+20240801,Abhay,Al-Nuaimi,1998-12-19,other,abhay.alnuaimi.20240801@example.com,+1-368-603-8056,Information Tech,2022,1.59
+20240802,Yan,Chen,2005-12-07,female,yan.chen.20240802@example.com,+1-891-602-9837,Economics,2024,3.29
+20240803,Rajesh,Qasim,1998-07-04,female,rajesh.qasim.20240803@example.com,+1-469-606-7189,Physics,2022,2.91
+20240804,Hannah,MacLeod,2002-03-10,female,hannah.macleod.20240804@example.com,+1-246-231-7003,Economics,2018,3.94
+20240805,Lukas,Janssen,1995-08-09,other,lukas.janssen.20240805@example.com,+1-299-538-6654,Physics,2024,3.36
+20240806,Hannah,Al-Sayed,2000-06-23,male,hannah.alsayed.20240806@example.com,+1-519-706-2391,Management,2019,2.38
+20240807,John,Kowalski,2002-07-28,female,john.kowalski.20240807@example.com,+1-533-138-8551,Biotechnology,2019,2.26
+20240808,Pradeep,Perez,2004-06-12,female,pradeep.perez.20240808@example.com,+1-680-702-1364,Information Tech,2020,2.79
+20240809,Jean,Al-Mansoor,2002-03-26,female,jean.almansoor.20240809@example.com,+1-302-807-4373,Chemistry,2022,2.93
+20240810,Camille,Bishara,2002-08-13,other,camille.bishara.20240810@example.com,+1-646-306-9142,Mathematics,2019,2.76
+20240811,Emma,Ivanov,1999-10-20,other,emma.ivanov.20240811@example.com,+1-504-687-7586,Computer Science,2020,3.63
+20240812,Amina,Torres,1997-01-23,female,amina.torres.20240812@example.com,+1-544-379-2102,Economics,2023,3.36
+20240813,Rajesh,Farah,1996-09-20,other,rajesh.farah.20240813@example.com,+1-507-543-9846,Biotechnology,2023,2.02
+20240814,Jean,Jones,2000-08-20,unspecified,jean.jones.20240814@example.com,+1-981-660-3958,Management,2022,2.54
+20240815,Priya,Dubois,1999-03-09,unspecified,priya.dubois.20240815@example.com,+1-876-943-8656,Mechanical Eng,2022,3.26
+20240816,Carlos,Dubois,2004-09-23,female,carlos.dubois.20240816@example.com,+1-405-473-8577,Biotechnology,2022,2.83
+20240817,Hiroshi,Davis,2001-09-25,unspecified,hiroshi.davis.20240817@example.com,+1-526-980-2055,Physics,2024,1.88
+20240818,Zainab,Novak,2001-06-09,male,zainab.novak.20240818@example.com,+1-903-715-4868,Civil Engineering,2023,2.53
+20240819,Astrid,Davis,1999-04-22,male,astrid.davis.20240819@example.com,+1-675-597-8145,Civil Engineering,2018,1.78
+20240820,Pradeep,Moreau,1999-07-13,other,pradeep.moreau.20240820@example.com,+1-229-364-5551,Electrical Eng,2019,3.76
+20240821,Kenji,Moreau,2005-11-24,female,kenji.moreau.20240821@example.com,+1-285-421-5882,Computer Science,2024,3.63
+20240822,John,Al-Sayed,1997-01-09,male,john.alsayed.20240822@example.com,+1-314-684-9196,Mechanical Eng,2021,3.74
+20240823,Isabella,Hernandez,2006-10-12,unspecified,isabella.hernandez.20240823@example.com,+1-443-714-3003,Data Science,2020,3.16
+20240824,Jean,Tanaka,2003-09-30,male,jean.tanaka.20240824@example.com,+1-423-247-2750,Physics,2024,3.58
+20240825,Kenji,Garcia,2004-11-09,other,kenji.garcia.20240825@example.com,+1-257-602-9740,Economics,2021,3.92
+20240826,Mia,Weber,2002-02-05,unspecified,mia.weber.20240826@example.com,+1-899-352-5550,Chemistry,2022,3.87
+20240827,Hiroshi,Suzuki,2003-04-01,other,hiroshi.suzuki.20240827@example.com,+1-860-720-1570,Computer Science,2024,2.69
+20240828,Sneha,Weber,2000-05-17,unspecified,sneha.weber.20240828@example.com,+1-854-817-6945,Civil Engineering,2020,3.79
+20240829,Isabella,Lopez,2004-12-03,female,isabella.lopez.20240829@example.com,+1-461-408-2478,Physics,2021,3.67
+20240830,Layla,Chen,1998-08-05,other,layla.chen.20240830@example.com,+1-616-908-1555,Management,2021,2.03
+20240831,Sofia,Kowalski,2006-01-10,unspecified,sofia.kowalski.20240831@example.com,+1-934-532-2644,Mathematics,2021,1.70
+20240832,Min-jun,Weber,1996-06-27,unspecified,minjun.weber.20240832@example.com,+1-946-932-9973,Economics,2020,2.15
+20240833,Marie,Al-Nuaimi,1996-03-02,male,marie.alnuaimi.20240833@example.com,+1-654-910-3229,Management,2023,3.24
+20240834,Asha,Khan,2001-11-08,female,asha.khan.20240834@example.com,+1-361-355-9460,Data Science,2020,2.00
+20240835,Wei,Novak,2004-03-15,other,wei.novak.20240835@example.com,+1-689-994-3187,Chemistry,2024,2.99
+20240836,María,Brown,2002-05-07,other,maría.brown.20240836@example.com,+1-286-524-7022,Mechanical Eng,2024,3.22
+20240837,Mei,Khan,2007-10-17,female,mei.khan.20240837@example.com,+1-771-762-4747,Computer Science,2019,3.69
+20240838,Olivia,Al-Nuaimi,1998-10-14,unspecified,olivia.alnuaimi.20240838@example.com,+1-639-714-5262,Economics,2018,2.00
+20240839,Sakura,Kumar,1998-10-25,female,sakura.kumar.20240839@example.com,+1-935-638-8129,Computer Science,2022,3.90
+20240840,Suresh,Popov,1997-08-28,male,suresh.popov.20240840@example.com,+1-472-394-9096,Mechanical Eng,2019,3.18
+20240841,René,Smith,1999-08-20,male,rené.smith.20240841@example.com,+1-944-793-4102,Civil Engineering,2022,2.58
+20240842,Qian,Brown,1998-04-10,other,qian.brown.20240842@example.com,+1-441-732-8388,Civil Engineering,2018,2.52
+20240843,Youssef,Suzuki,2005-04-11,female,youssef.suzuki.20240843@example.com,+1-336-992-6296,Chemistry,2018,2.96
+20240844,Björn,Simon,2003-08-08,unspecified,björn.simon.20240844@example.com,+1-811-362-2196,Information Tech,2023,2.03
+20240845,Noah,Gonzalez,2002-06-19,unspecified,noah.gonzalez.20240845@example.com,+1-820-786-1745,Mathematics,2019,1.65
+20240846,Asha,Wang,2003-07-18,unspecified,asha.wang.20240846@example.com,+1-579-235-1673,Management,2020,2.76
+20240847,Kenji,Wang,2006-01-20,unspecified,kenji.wang.20240847@example.com,+1-291-424-9690,Electrical Eng,2020,1.92
+20240848,Lakshmi,Johnson,2002-01-10,male,lakshmi.johnson.20240848@example.com,+1-487-865-6907,Chemistry,2018,2.15
+20240849,Lakshmi,Zhang,2000-11-26,other,lakshmi.zhang.20240849@example.com,+1-520-546-3703,Biotechnology,2022,3.76
+20240850,Jean,Fischer,1998-05-24,unspecified,jean.fischer.20240850@example.com,+1-393-252-1894,Computer Science,2022,3.99
+20240851,Hassan,Brown,2000-11-01,unspecified,hassan.brown.20240851@example.com,+1-318-606-1668,Physics,2019,1.59
+20240852,Abhay,Sato,2007-07-31,unspecified,abhay.sato.20240852@example.com,+1-315-966-3425,Chemistry,2021,3.97
+20240853,Isabella,Sato,2001-05-16,male,isabella.sato.20240853@example.com,+1-720-942-5469,Information Tech,2019,1.73
+20240854,Omar,Sanchez,1995-02-03,male,omar.sanchez.20240854@example.com,+1-278-352-9161,Physics,2022,4.00
+20240855,Noah,Tanaka,1997-09-26,other,noah.tanaka.20240855@example.com,+1-308-957-6300,Economics,2021,1.56
+20240856,Sakura,Sharma,2005-10-05,other,sakura.sharma.20240856@example.com,+1-873-105-6397,Economics,2021,1.70
+20240857,Rohan,Moreau,2005-02-28,male,rohan.moreau.20240857@example.com,+1-249-920-5635,Mechanical Eng,2020,3.06
+20240858,Marie,Janssen,1996-08-02,unspecified,marie.janssen.20240858@example.com,+1-608-361-3916,Data Science,2022,1.64
+20240859,Layla,MacLeod,1996-12-31,male,layla.macleod.20240859@example.com,+1-597-898-7592,Electrical Eng,2018,3.66
+20240860,Mateo,Moreau,1998-06-16,other,mateo.moreau.20240860@example.com,+1-642-853-6080,Chemistry,2018,3.38
+20240861,Wei,Sato,2003-03-30,male,wei.sato.20240861@example.com,+1-656-497-8805,Chemistry,2022,3.16
+20240862,Carlos,Perez,1997-01-09,unspecified,carlos.perez.20240862@example.com,+1-828-290-8112,Mathematics,2024,3.00
+20240863,Pradeep,Kumar,2002-08-31,male,pradeep.kumar.20240863@example.com,+1-902-830-3540,Management,2021,1.60
+20240864,Shreya,Hernandez,2006-10-08,other,shreya.hernandez.20240864@example.com,+1-647-181-8825,Chemistry,2018,3.07
+20240865,Alejandro,Johnson,2001-09-26,male,alejandro.johnson.20240865@example.com,+1-637-402-1781,Biotechnology,2024,3.96
+20240866,Emma,Patel,2006-06-15,unspecified,emma.patel.20240866@example.com,+1-675-776-5151,Data Science,2021,2.78
+20240867,Hannah,Wang,2006-04-17,female,hannah.wang.20240867@example.com,+1-877-573-3941,Information Tech,2018,2.96
+20240868,Mei,Ivanov,1996-11-13,other,mei.ivanov.20240868@example.com,+1-801-841-8454,Mathematics,2021,2.48
+20240869,Deepika,Torres,2002-08-28,male,deepika.torres.20240869@example.com,+1-389-180-5248,Mechanical Eng,2024,3.52
+20240870,Sophia,Farah,1995-02-17,female,sophia.farah.20240870@example.com,+1-375-771-8817,Computer Science,2021,2.84
+20240871,Suresh,Weber,2005-12-01,other,suresh.weber.20240871@example.com,+1-889-806-7471,Information Tech,2020,2.51
+20240872,Alejandro,Kumar,1995-04-24,female,alejandro.kumar.20240872@example.com,+1-912-292-1439,Computer Science,2019,1.81
+20240873,Zainab,Qasim,2000-06-03,male,zainab.qasim.20240873@example.com,+1-508-888-8592,Data Science,2021,3.12
+20240874,Hiroshi,Qasim,1997-08-12,male,hiroshi.qasim.20240874@example.com,+1-919-555-8947,Information Tech,2019,2.55
+20240875,Rajesh,Sharma,2000-06-10,other,rajesh.sharma.20240875@example.com,+1-601-152-6469,Economics,2019,3.65
+20240876,Aarav,Gupta,2004-09-07,unspecified,aarav.gupta.20240876@example.com,+1-792-710-5764,Information Tech,2021,3.08
+20240877,Ananya,Bishara,2006-07-07,unspecified,ananya.bishara.20240877@example.com,+1-931-162-9655,Mechanical Eng,2022,2.50
+20240878,Priya,Farah,2007-05-30,other,priya.farah.20240878@example.com,+1-627-584-2915,Management,2018,2.94
+20240879,Shreya,Torres,2002-10-11,unspecified,shreya.torres.20240879@example.com,+1-365-394-4149,Computer Science,2021,3.85
+20240880,Rajesh,Sato,2006-05-21,other,rajesh.sato.20240880@example.com,+1-932-772-8675,Economics,2019,2.60
+20240881,Wei,Zhang,2003-10-03,other,wei.zhang.20240881@example.com,+1-365-736-4394,Chemistry,2021,3.31
+20240882,Mateo,Weber,2005-10-30,male,mateo.weber.20240882@example.com,+1-360-720-9063,Mechanical Eng,2019,3.37
+20240883,Noah,Lindqvist,2006-01-27,male,noah.lindqvist.20240883@example.com,+1-770-148-1297,Mechanical Eng,2020,2.54
+20240884,Hannah,Wang,1998-07-23,female,hannah.wang.20240884@example.com,+1-545-540-2867,Data Science,2019,2.39
+20240885,Hassan,Nair,2005-11-28,other,hassan.nair.20240885@example.com,+1-987-147-5382,Mathematics,2020,2.90
+20240886,Sakura,Novak,2006-07-24,female,sakura.novak.20240886@example.com,+1-251-548-8489,Information Tech,2022,3.23
+20240887,Lucas,Gupta,1997-04-14,female,lucas.gupta.20240887@example.com,+1-307-271-2934,Biotechnology,2024,3.45
+20240888,Zainab,Suzuki,2001-07-21,unspecified,zainab.suzuki.20240888@example.com,+1-710-850-2626,Biotechnology,2023,1.89
+20240889,Sakura,Moreau,1998-02-02,male,sakura.moreau.20240889@example.com,+1-625-887-1107,Chemistry,2018,2.41
+20240890,Youssef,Ivanov,2002-08-28,male,youssef.ivanov.20240890@example.com,+1-472-481-7799,Data Science,2020,3.52
+20240891,Max,Dubois,1998-05-26,unspecified,max.dubois.20240891@example.com,+1-341-921-8025,Mechanical Eng,2024,3.16
+20240892,Chao,Al-Sayed,2006-07-30,other,chao.alsayed.20240892@example.com,+1-653-249-1162,Computer Science,2024,3.75
+20240893,John,Kumar,2004-01-04,male,john.kumar.20240893@example.com,+1-262-502-1607,Physics,2024,2.35
+20240894,Sakura,Perez,2006-08-29,unspecified,sakura.perez.20240894@example.com,+1-897-817-5986,Physics,2020,1.64
+20240895,Jean,Sato,2001-04-10,male,jean.sato.20240895@example.com,+1-613-556-4360,Information Tech,2022,1.52
+20240896,Abhay,Weber,2004-01-27,male,abhay.weber.20240896@example.com,+1-286-137-9805,Civil Engineering,2024,2.36
+20240897,Pierre,Al-Mansoor,1997-10-29,other,pierre.almansoor.20240897@example.com,+1-295-623-6115,Mechanical Eng,2022,3.31
+20240898,Camille,O'Connor,1995-07-11,other,camille.oconnor.20240898@example.com,+1-992-411-7926,Mechanical Eng,2018,3.09
+20240899,Lucas,Schneider,2003-05-14,other,lucas.schneider.20240899@example.com,+1-248-874-3043,Data Science,2020,1.65
+20240900,Deepika,Chen,1995-02-12,other,deepika.chen.20240900@example.com,+1-963-695-9737,Mechanical Eng,2021,2.93
+20240901,Hassan,Sato,2007-11-06,male,hassan.sato.20240901@example.com,+1-586-632-5057,Information Tech,2023,2.25
+20240902,Sophia,Liu,1999-04-27,other,sophia.liu.20240902@example.com,+1-300-250-7974,Chemistry,2024,2.79
+20240903,Chao,Kumar,2004-07-12,unspecified,chao.kumar.20240903@example.com,+1-656-179-7050,Mechanical Eng,2019,1.73
+20240904,Astrid,Sanchez,2003-11-09,other,astrid.sanchez.20240904@example.com,+1-710-751-7937,Economics,2024,2.90
+20240905,Abhay,Weber,2005-12-24,unspecified,abhay.weber.20240905@example.com,+1-347-617-3082,Electrical Eng,2023,3.83
+20240906,Arjun,Schmidt,2006-07-06,female,arjun.schmidt.20240906@example.com,+1-417-566-8755,Information Tech,2024,2.64
+20240907,Ananya,Fischer,2007-07-16,female,ananya.fischer.20240907@example.com,+1-618-212-2980,Economics,2020,1.89
+20240908,Mia,Perez,2006-09-22,female,mia.perez.20240908@example.com,+1-512-483-5968,Mathematics,2019,2.22
+20240909,Camila,Bishara,1998-03-16,unspecified,camila.bishara.20240909@example.com,+1-512-390-4532,Computer Science,2019,1.57
+20240910,Mei,Popov,1995-01-18,other,mei.popov.20240910@example.com,+1-245-527-8883,Data Science,2018,3.35
+20240911,Valentina,Perez,2002-07-30,unspecified,valentina.perez.20240911@example.com,+1-937-953-3175,Chemistry,2024,2.63
+20240912,Yan,Rodriguez,2005-02-02,unspecified,yan.rodriguez.20240912@example.com,+1-945-433-2463,Electrical Eng,2023,3.09
+20240913,Chao,Al-Mansoor,2003-11-14,female,chao.almansoor.20240913@example.com,+1-653-853-5544,Management,2020,2.08
+20240914,Olivia,Kowalski,1995-07-23,other,olivia.kowalski.20240914@example.com,+1-860-226-2395,Biotechnology,2022,1.91
+20240915,Fatima,Torres,1996-03-09,male,fatima.torres.20240915@example.com,+1-714-119-2970,Chemistry,2022,2.85
+20240916,Mei,Sharma,1999-08-13,unspecified,mei.sharma.20240916@example.com,+1-746-721-6249,Data Science,2019,2.19
+20240917,Astrid,Sanchez,1995-07-10,unspecified,astrid.sanchez.20240917@example.com,+1-624-124-9649,Electrical Eng,2020,1.61
+20240918,Jean,Al-Mansoor,1997-07-28,male,jean.almansoor.20240918@example.com,+1-347-287-5187,Civil Engineering,2018,2.14
+20240919,Olivia,Johnson,2004-02-19,male,olivia.johnson.20240919@example.com,+1-829-433-3973,Computer Science,2023,2.27
+20240920,Rahul,Schmidt,2003-09-30,other,rahul.schmidt.20240920@example.com,+1-622-431-5225,Electrical Eng,2018,1.65
+20240921,René,Popov,1996-02-29,male,rené.popov.20240921@example.com,+1-800-342-9076,Economics,2019,3.75
+20240922,Müller,Nair,2002-02-20,unspecified,müller.nair.20240922@example.com,+1-695-129-7676,Data Science,2021,2.17
+20240923,Hassan,Sharma,1997-04-11,male,hassan.sharma.20240923@example.com,+1-781-516-8306,Civil Engineering,2019,2.17
+20240924,Liam,Novak,1999-07-25,male,liam.novak.20240924@example.com,+1-753-272-5016,Mathematics,2024,3.09
+20240925,Pradeep,Gonzalez,1995-01-09,unspecified,pradeep.gonzalez.20240925@example.com,+1-496-768-3742,Economics,2024,2.63
+20240926,Asha,Verma,2005-10-25,other,asha.verma.20240926@example.com,+1-589-459-4485,Management,2020,3.83
+20240927,Mateo,Patel,2006-12-24,female,mateo.patel.20240927@example.com,+1-291-504-3014,Civil Engineering,2022,1.90
+20240928,Yan,Schneider,2001-04-08,male,yan.schneider.20240928@example.com,+1-716-921-6215,Economics,2021,2.89
+20240929,Camille,Dubois,2005-02-25,male,camille.dubois.20240929@example.com,+1-529-449-4450,Management,2020,2.15
+20240930,Suresh,Ramirez,1997-12-31,female,suresh.ramirez.20240930@example.com,+1-687-104-1156,Economics,2023,2.32
+20240931,Kenji,Al-Sayed,2005-12-19,unspecified,kenji.alsayed.20240931@example.com,+1-283-906-2270,Biotechnology,2024,2.89
+20240932,Rahul,Ivanov,2004-12-25,female,rahul.ivanov.20240932@example.com,+1-585-947-6864,Mathematics,2023,3.54
+20240933,Müller,Brown,1995-03-11,unspecified,müller.brown.20240933@example.com,+1-397-555-1153,Mathematics,2018,3.60
+20240934,Amina,Fischer,2001-04-22,other,amina.fischer.20240934@example.com,+1-292-935-5967,Mechanical Eng,2023,1.55
+20240935,Amina,Miller,2003-02-21,other,amina.miller.20240935@example.com,+1-920-823-4425,Chemistry,2018,3.95
+20240936,Asha,Jones,2003-11-19,other,asha.jones.20240936@example.com,+1-712-605-3793,Economics,2018,3.96
+20240937,Fatima,Laurent,2007-09-04,female,fatima.laurent.20240937@example.com,+1-331-863-2065,Economics,2019,3.35
+20240938,Wei,Wang,2000-02-11,other,wei.wang.20240938@example.com,+1-894-123-9731,Mechanical Eng,2022,3.83
+20240939,José,Simon,2005-03-07,unspecified,josé.simon.20240939@example.com,+1-889-765-1849,Management,2018,2.90
+20240940,Marie,Farah,2004-02-16,female,marie.farah.20240940@example.com,+1-730-577-9119,Management,2020,3.61
+20240941,Max,Hernandez,2000-01-14,other,max.hernandez.20240941@example.com,+1-745-559-6181,Physics,2018,3.40
+20240942,Asha,Khan,1996-11-01,female,asha.khan.20240942@example.com,+1-431-806-7943,Information Tech,2022,1.99
+20240943,Emma,Davis,2002-05-21,female,emma.davis.20240943@example.com,+1-840-199-1456,Management,2020,1.99
+20240944,Pooja,Farah,2002-07-01,other,pooja.farah.20240944@example.com,+1-310-584-4905,Mechanical Eng,2024,3.52
+20240945,Camille,Ivanov,2002-06-25,male,camille.ivanov.20240945@example.com,+1-994-714-8184,Data Science,2022,1.64
+20240946,Noah,Dubois,1997-10-19,female,noah.dubois.20240946@example.com,+1-586-420-2065,Computer Science,2018,2.62
+20240947,Wei,Verma,2004-11-29,other,wei.verma.20240947@example.com,+1-841-542-2077,Economics,2018,3.80
+20240948,Sophia,Simon,1996-03-03,unspecified,sophia.simon.20240948@example.com,+1-298-732-7735,Physics,2020,1.64
+20240949,Hassan,Kowalski,1995-03-28,unspecified,hassan.kowalski.20240949@example.com,+1-638-735-2659,Chemistry,2021,3.00
+20240950,Camille,Moreau,1995-08-01,other,camille.moreau.20240950@example.com,+1-397-210-2682,Economics,2021,3.84
+20240951,Aarav,Ramirez,1999-05-06,male,aarav.ramirez.20240951@example.com,+1-721-362-6822,Management,2022,3.28
+20240952,Qian,Qasim,2004-12-21,male,qian.qasim.20240952@example.com,+1-245-161-3091,Electrical Eng,2019,3.31
+20240953,Valentina,Sanchez,2003-01-09,male,valentina.sanchez.20240953@example.com,+1-680-416-6618,Electrical Eng,2020,2.59
+20240954,Camila,Suzuki,2006-08-11,male,camila.suzuki.20240954@example.com,+1-443-619-1894,Computer Science,2022,3.93
+20240955,Pradeep,Sato,1999-06-30,male,pradeep.sato.20240955@example.com,+1-549-293-8794,Data Science,2023,1.99
+20240956,Kavita,Ramirez,2007-12-22,other,kavita.ramirez.20240956@example.com,+1-506-528-6384,Economics,2022,3.23
+20240957,Min-jun,Gupta,1995-12-12,male,minjun.gupta.20240957@example.com,+1-854-328-4772,Computer Science,2021,2.64
+20240958,Kavita,Torres,2005-10-13,other,kavita.torres.20240958@example.com,+1-584-310-7558,Information Tech,2023,2.03
+20240959,Mei,Popov,2003-02-20,female,mei.popov.20240959@example.com,+1-230-668-2887,Mathematics,2018,3.97
+20240960,Hiroshi,Zhang,2003-01-27,female,hiroshi.zhang.20240960@example.com,+1-402-390-3853,Mechanical Eng,2018,2.60
+20240961,Amina,Wang,2002-08-15,male,amina.wang.20240961@example.com,+1-400-122-3884,Electrical Eng,2024,3.30
+20240962,María,Gupta,1998-01-29,female,maría.gupta.20240962@example.com,+1-415-412-8474,Mathematics,2021,1.55
+20240963,Layla,Suzuki,1998-11-04,unspecified,layla.suzuki.20240963@example.com,+1-266-221-3366,Information Tech,2022,3.52
+20240964,Wei,Lindqvist,2006-12-11,other,wei.lindqvist.20240964@example.com,+1-813-539-5006,Mathematics,2021,1.97
+20240965,Rohan,O'Connor,1999-03-30,other,rohan.oconnor.20240965@example.com,+1-535-353-1872,Electrical Eng,2024,3.04
+20240966,Sofia,Kowalski,2006-05-26,unspecified,sofia.kowalski.20240966@example.com,+1-944-183-8711,Mechanical Eng,2022,1.82
+20240967,John,Williams,2006-06-03,unspecified,john.williams.20240967@example.com,+1-675-283-6272,Biotechnology,2020,2.77
+20240968,Mia,Hernandez,2006-02-05,other,mia.hernandez.20240968@example.com,+1-610-753-1599,Economics,2021,3.24
+20240969,Zainab,Miller,2005-02-20,male,zainab.miller.20240969@example.com,+1-423-413-7963,Physics,2024,3.74
+20240970,René,Perez,2003-05-23,female,rené.perez.20240970@example.com,+1-969-186-5834,Electrical Eng,2020,1.89
+20240971,Abhay,Hernandez,1995-12-04,other,abhay.hernandez.20240971@example.com,+1-661-578-8086,Physics,2021,2.38
+20240972,Chao,Suzuki,2002-02-10,unspecified,chao.suzuki.20240972@example.com,+1-383-552-4830,Computer Science,2020,3.51
+20240973,María,Moreau,1996-11-06,female,maría.moreau.20240973@example.com,+1-433-200-2942,Civil Engineering,2020,1.69
+20240974,Emma,Suzuki,1999-06-29,male,emma.suzuki.20240974@example.com,+1-537-356-5959,Management,2020,1.60
+20240975,Sofia,Jones,1998-02-03,other,sofia.jones.20240975@example.com,+1-988-406-5617,Computer Science,2024,3.26
+20240976,Lukas,Lindqvist,2004-02-06,female,lukas.lindqvist.20240976@example.com,+1-869-624-3445,Chemistry,2024,3.99
+20240977,Björn,Miller,1999-09-16,male,björn.miller.20240977@example.com,+1-801-904-8679,Biotechnology,2021,2.07
+20240978,Kavita,Tanaka,2002-01-08,male,kavita.tanaka.20240978@example.com,+1-988-814-7843,Physics,2024,3.48
+20240979,Zainab,Haddad,2007-07-11,other,zainab.haddad.20240979@example.com,+1-791-994-3102,Electrical Eng,2018,2.62
+20240980,Valentina,Fischer,2002-12-15,male,valentina.fischer.20240980@example.com,+1-635-802-7608,Physics,2020,1.52
+20240981,Alejandro,Liu,2007-09-24,female,alejandro.liu.20240981@example.com,+1-357-438-7404,Electrical Eng,2024,2.97
+20240982,René,Garcia,1996-06-05,unspecified,rené.garcia.20240982@example.com,+1-686-211-6387,Mechanical Eng,2022,3.87
+20240983,Deepika,Dubois,1997-02-02,female,deepika.dubois.20240983@example.com,+1-766-281-1525,Management,2019,3.74
+20240984,Arjun,Sharma,1996-07-23,other,arjun.sharma.20240984@example.com,+1-438-398-9591,Mechanical Eng,2021,1.97
+20240985,John,Al-Nuaimi,2006-08-18,male,john.alnuaimi.20240985@example.com,+1-620-500-3572,Mathematics,2018,1.64
+20240986,Lucas,Smith,2005-09-22,female,lucas.smith.20240986@example.com,+1-411-233-4369,Physics,2023,2.84
+20240987,Valentina,Farah,2005-08-25,other,valentina.farah.20240987@example.com,+1-407-614-8519,Economics,2019,3.54
+20240988,Sofia,Jones,1998-03-14,female,sofia.jones.20240988@example.com,+1-819-926-5044,Physics,2021,1.52
+20240989,Pierre,Perez,2005-04-27,female,pierre.perez.20240989@example.com,+1-293-394-8476,Information Tech,2021,3.70
+20240990,Lukas,Weber,2001-09-02,male,lukas.weber.20240990@example.com,+1-455-283-8079,Physics,2021,3.61
+20240991,Suresh,Al-Mansoor,1999-02-11,female,suresh.almansoor.20240991@example.com,+1-915-144-4927,Physics,2023,3.78
+20240992,Min-jun,Li,2007-01-23,female,minjun.li.20240992@example.com,+1-943-839-4559,Information Tech,2020,3.71
+20240993,Shreya,Al-Sayed,2007-05-26,other,shreya.alsayed.20240993@example.com,+1-973-207-9264,Data Science,2018,3.98
+20240994,Marie,Al-Sayed,2000-09-01,female,marie.alsayed.20240994@example.com,+1-227-174-8567,Chemistry,2019,2.63
+20240995,René,Tanaka,1999-05-12,female,rené.tanaka.20240995@example.com,+1-456-217-3236,Computer Science,2021,3.36
+20240996,Marie,Laurent,2005-11-15,female,marie.laurent.20240996@example.com,+1-761-772-4969,Data Science,2021,3.37
+20240997,Abhay,Smith,2001-04-05,male,abhay.smith.20240997@example.com,+1-218-721-2646,Electrical Eng,2024,2.68
+20240998,Kenji,Zhang,2003-10-07,female,kenji.zhang.20240998@example.com,+1-981-111-5476,Management,2019,1.81
+20240999,Sakura,Haddad,1999-11-10,female,sakura.haddad.20240999@example.com,+1-745-321-8242,Management,2023,2.40
+20241000,Sneha,Ivanov,2006-09-23,female,sneha.ivanov.20241000@example.com,+1-906-415-8274,Physics,2023,3.09
